@@ -21,9 +21,6 @@ https://live-mirror-01.ott.tricolor.tv/live/live/Rossia_1_0_hd/hls_enc/Rossia_1_
 #EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-logo="https://epg.iptvx.one/picons/rtr-planeta.png" group-title="Эфирные", РТР-Планета Европа
 http://player.smotrim.ru/iframe/stream/live_id/d7fef212-df66-485d-9952-7eab82d7d51b.m3u8
 
-#EXTINF:-1 tvg-id="rtr-belarus" tvg-logo="https://epg.iptvx.one/picons/rtr-belarus.png" group-title="Эфирные", РТР Беларусь HD
-http://93.189.224.246:52900/play/a00j/index.m3u8
-
 #EXTINF:-1 tvg-id="pervy-info-by" group-title="Эфирные", Первый информационный Беларусь
 https://edge52.dc.beltelecom.by/ngtrk/_definst_/smil:informacionnyy.smil/chunklist_w499524774_b5160000_sleng.m3u8
 
@@ -62,9 +59,6 @@ https://stream-msk-15.ott.tricolor.tv/dtv/id940_MSKSG-PVR-1--NTV_Stil_SD/04/plst
 
 #EXTINF:-1 tvg-id="ntv-mir" group-title="Эфирные", НТВ-Мир
 https://streaming.goodstream.cyou/live/213.m3u8
-
-#EXTINF:-1 tvg-id="ntv-belarus" group-title="Эфирные", НТВ Беларусь HD
-http://93.189.224.246:52900/play/a00i/index.m3u8
 
 #EXTINF:-1 tvg-id="tro" group-title="Эфирные", БелРос
 https://stream-msk-07.ott.tricolor.tv/dtv/id896_MSKSG-PVR-1--BelRos/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
@@ -119,9 +113,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
 
 #EXTINF:-1 tvg-id="kultura" tvg-logo="https://getsiptv.ru/img/ch_icons/rossiya_kultura.png" group-title="Эфирные", Россия Культура
 http://nea-live-stream.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=rossia_k.m3u8&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
-
-#EXTINF:-1 tvg-id="zvyazda-by" group-title="Эфирные",Звязда
-http://fs2.persik.by/Zvezda/index.m3u8
 
 #EXTINF:-1 tvg-id="zvezda" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Эфирные",Звезда
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -210,7 +201,7 @@ https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE
 
 #EXTINF:-1 tvg-id="Fox News" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png" group-title="Новости", FOX NEWS CHANNEL FHD
-https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/euronews.png" tvg-id="euronews-en" group-title="Новости",Euronews EN
 http://45.159.74.14:80/Channel_119/manifest.m3u8
