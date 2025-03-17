@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 17.03.2025г🔴
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 17.03.2025г🔴🟡
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -330,8 +330,8 @@ http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
 http://pro.ipcover.lol:8080/Alexis58174/857164/401957
 
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD CEE
-http://nodns1.top:8080/38170638485767/91739876651327/51962
+#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD ESP
+http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://iconape.com/wp-content/png_logo_vector/eurosport-hd-live-logo.png" tvg-id="no_epg_sport" group-title="Спортивные", live Eurosport GOLD
 http://iptv-hls.idc.md:8200/hls/260/live1.m3u8
