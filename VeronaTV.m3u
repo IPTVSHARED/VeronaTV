@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 18.03.2025г
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 18.03.2025г🗽
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2069,6 +2069,456 @@ http://olsib.stream4k.ru:2095/War/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib Wrestling
 http://olsib.stream4k.ru:2095/Wrestling/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
 
+#EXTINF:-1 tvg-id="00115" tvg-name="cms вне закона" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Вне закона
+http://cdn1.starcinemax.fun:2095/00115/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+
+#EXTINF:-1 tvg-id="0315" tvg-name="cms однажды в россии" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Однажды в России
+http://cdn1.starcinemax.fun:2095/0315/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+
+#EXTINF:-1 tvg-id="0420" tvg-name="cms на ножах" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS На ножах
+http://cdn1.starcinemax.fun:2095/0420/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="7009" tvg-name="cms чарли чаплин" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Чарли чаплин
+http://cdn2.starcinemax.fun:2095/7009/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3062" tvg-name="cms своим ходом" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Своим ходом
+http://cdn2.starcinemax.fun:2095/3062/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0004" tvg-name="cms ералаш" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Ералаш
+http://cdn1.starcinemax.fun:2095/0004/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0021" tvg-name="cms tik tok" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Tik Tok
+http://cdn1.starcinemax.fun:2095/0021/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0027" tvg-name="cms привет из 90-х" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Привет из 90-х
+http://cdn1.starcinemax.fun:2095/0027/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0035" tvg-name="cms каламбур" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Каламбур
+http://cdn1.starcinemax.fun:2095/0035/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0100" tvg-name="cms мир на изнанку" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Мир на изнанку
+http://cdn1.starcinemax.fun:2095/0100/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="00108" tvg-name="cms банды 90-ых" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Банды 90-ых
+http://cdn1.starcinemax.fun:2095/00108/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="00109" tvg-name="cms смак  с андреем макаревичем" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Смак  с Андреем Макаревичем
+http://cdn1.starcinemax.fun:2095/00109/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="00110" tvg-name="cms св шоу" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS СВ Шоу
+http://cdn1.starcinemax.fun:2095/00110/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="00111" tvg-name="cms дорожный патруль" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Дорожный патруль
+http://cdn1.starcinemax.fun:2095/00111/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="00112" tvg-name="cms хроники московского быта" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Хроники московского быта
+http://cdn1.starcinemax.fun:2095/00112/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0142" tvg-name="cms жак-ив кусто" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Жак-Ив Кусто
+http://cdn1.starcinemax.fun:2095/0142/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0168" tvg-name="cms уральские пельмени" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Уральские пельмени
+http://cdn1.starcinemax.fun:2095/0168/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0207" tvg-name="cms намедни" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Намедни
+http://cdn1.starcinemax.fun:2095/0207/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0323" tvg-name="cms выжить любой ценой" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Выжить любой ценой
+http://cdn1.starcinemax.fun:2095/0323/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0324" tvg-name="cms одна за всех" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Одна за всех
+http://cdn1.starcinemax.fun:2095/0324/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0325" tvg-name="cms угадай мелодию" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Угадай Мелодию
+http://cdn1.starcinemax.fun:2095/0325/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0327" tvg-name="cms городок" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Городок
+http://cdn1.starcinemax.fun:2095/0327/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0328" tvg-name="cms дизель шоу" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Дизель Шоу
+http://cdn1.starcinemax.fun:2095/0328/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0331" tvg-name="cms окна с дмитрием нагиевым" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Окна с Дмитрием Нагиевым
+http://cdn1.starcinemax.fun:2095/0331/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0332" tvg-name="cms осторожно модерн" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Осторожно Модерн
+http://cdn1.starcinemax.fun:2095/0332/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0333" tvg-name="cms 6 кадров" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS 6 кадров
+http://cdn1.starcinemax.fun:2095/0333/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0334" tvg-name="cms даёшь молодёжь!" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Даёшь молодёжь!
+http://cdn1.starcinemax.fun:2095/0334/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0337" tvg-name="cms маски-шоу" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Маски-шоу
+http://cdn1.starcinemax.fun:2095/0337/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0338" tvg-name="cms мистер бин" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Мистер Бин
+http://cdn1.starcinemax.fun:2095/0338/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0389" tvg-name="cms час суда с павлом астаховым" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Час Суда с Павлом Астаховым
+http://cdn1.starcinemax.fun:2095/0389/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0411" tvg-name="cms жизнь замечатетьных людей" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Жизнь замечатетьных людей
+http://cdn1.starcinemax.fun:2095/0411/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0414" tvg-name="cms галилео" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Галилео
+http://cdn1.starcinemax.fun:2095/0414/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0415" tvg-name="cms империя страсти" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Империя страсти
+http://cdn1.starcinemax.fun:2095/0415/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0417" tvg-name="cms чудаки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Чудаки
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0418" tvg-name="cms 95 квартал" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS 95 квартал
+http://cdn1.starcinemax.fun:2095/0418/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0419" tvg-name="cms голые и смешные" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Голые и смешные
+http://cdn1.starcinemax.fun:2095/0419/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0422" tvg-name="cms top gear (топ гир)" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Top Gear (Топ Гир)
+http://cdn1.starcinemax.fun:2095/0422/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0439" tvg-name="cms царь горы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Царь горы
+http://cdn1.starcinemax.fun:2095/0439/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0440" tvg-name="cms следствие вели" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Следствие вели
+http://cdn1.starcinemax.fun:2095/0440/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0442" tvg-name="cms в мире животных" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS В мире животных
+http://cdn1.starcinemax.fun:2095/0442/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0443" tvg-name="cms клуб путешественников" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Клуб путешественников
+http://cdn1.starcinemax.fun:2095/0443/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0446" tvg-name="cms бородач" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Бородач
+http://cdn1.starcinemax.fun:2095/0446/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0463" tvg-name="cms киножурнал фитиль" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Киножурнал Фитиль
+http://cdn2.starcinemax.fun:2095/0463/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0468" tvg-name="cms русский ниндзя" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Русский ниндзя
+http://cdn2.starcinemax.fun:2095/0468/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0638" tvg-name="cms четыре свадьбы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Четыре свадьбы
+http://cdn2.starcinemax.fun:2095/0638/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0649" tvg-name="cms итальянцы by" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Итальянцы by
+http://cdn2.starcinemax.fun:2095/0649/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0706" tvg-name="cms наша раша" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Наша раша
+http://cdn2.starcinemax.fun:2095/0706/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0904" tvg-name="cms высоцкий документалка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Высоцкий Документалка
+http://cdn2.starcinemax.fun:2095/0904/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0906" tvg-name="cms криминальная россия" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS криминальная россия
+http://cdn2.starcinemax.fun:2095/0906/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0937" tvg-name="cms как это работает?" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Как это работает?
+http://cdn2.starcinemax.fun:2095/0937/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0970" tvg-name="cms задорнов" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Задорнов
+http://cdn2.starcinemax.fun:2095/0970/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0974" tvg-name="cms the cube" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS The Cube
+http://cdn2.starcinemax.fun:2095/0974/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0977" tvg-name="cms the chase" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS The Chase
+http://cdn2.starcinemax.fun:2095/0977/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="7010" tvg-name="cms удивительная природа" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Удивительная природа
+http://cdn2.starcinemax.fun:2095/7010/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="9011" tvg-name="cms орел и решка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Орел и решка
+http://cdn2.starcinemax.fun:2095/9011/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0990" tvg-name="cms +100500" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS +100500
+http://cdn2.starcinemax.fun:2095/0990/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="1008" tvg-name="cms махинаторы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Махинаторы
+http://cdn2.starcinemax.fun:2095/1008/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3026" tvg-name="cms comedy club" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Comedy Club
+http://cdn2.starcinemax.fun:2095/3026/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3036" tvg-name="cms что где когда" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Что Где Когда
+http://cdn2.starcinemax.fun:2095/3036/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3066" tvg-name="cms разрушители легенд" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [развлечения]",CMS Разрушители легенд
+http://cdn2.starcinemax.fun:2095/3066/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+
+
+#EXTINF:-1 tvg-id="0365" tvg-name="cms покемон" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Покемон
+http://cdn1.starcinemax.fun:2095/0365/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0809" tvg-name="cms чудеса на виражах" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Чудеса на виражах
+http://cdn2.starcinemax.fun:2095/0809/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0067" tvg-name="cms anime" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Anime
+http://cdn1.starcinemax.fun:2095/0067/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0068" tvg-name="cms гравити фолс" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Гравити Фолс
+http://cdn1.starcinemax.fun:2095/0068/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0075" tvg-name="cms маша и медведь" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Маша и медведь
+http://cdn1.starcinemax.fun:2095/0075/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0085" tvg-name="cms новые приключения винни пуха" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Новые приключения Винни Пуха
+http://cdn1.starcinemax.fun:2095/0085/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0088" tvg-name="cms русалочка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Русалочка
+http://cdn1.starcinemax.fun:2095/0088/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0155" tvg-name="cms киносказка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Киносказка
+http://cdn1.starcinemax.fun:2095/0155/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0304" tvg-name="cms грифины" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Грифины
+http://cdn1.starcinemax.fun:2095/0304/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0326" tvg-name="cms фиксики" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Фиксики
+http://cdn1.starcinemax.fun:2095/0326/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0369" tvg-name="cms человек-паук" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Человек-паук
+http://cdn1.starcinemax.fun:2095/0369/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0374" tvg-name="cms том и джери" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Том и Джери
+http://cdn1.starcinemax.fun:2095/0374/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0375" tvg-name="cms масяня" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Масяня
+http://cdn1.starcinemax.fun:2095/0375/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0382" tvg-name="cms губка боб" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Губка Боб
+http://cdn1.starcinemax.fun:2095/0382/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0416" tvg-name="cms союз мультфильм" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Союз мультфильм
+http://cdn1.starcinemax.fun:2095/0416/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0429" tvg-name="cms секретные материалы псов-шпионов" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Секретные материалы псов-шпионов
+http://cdn1.starcinemax.fun:2095/0429/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0811" tvg-name="cms мимимишки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Мимимишки
+http://cdn2.starcinemax.fun:2095/0811/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0901" tvg-name="cms ферма монстров" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Ферма монстров
+http://cdn2.starcinemax.fun:2095/0901/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0914" tvg-name="cms вуншпунш" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Вуншпунш
+http://cdn2.starcinemax.fun:2095/0914/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0966" tvg-name="cms город свиней" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Город Свиней
+http://cdn2.starcinemax.fun:2095/0966/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0967" tvg-name="cms что с энди?" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Что с Энди?
+http://cdn2.starcinemax.fun:2095/0967/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0978" tvg-name="cms маша і ведмідь" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Маша і ведмідь
+http://cdn2.starcinemax.fun:2095/0978/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0980" tvg-name="cms чародеи" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Чародеи
+http://cdn2.starcinemax.fun:2095/0980/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="1402" tvg-name="cms ну погоди" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Ну погоди
+http://cdn2.starcinemax.fun:2095/1402/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3006" tvg-name="cms буба" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Буба
+http://cdn2.starcinemax.fun:2095/3006/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3005" tvg-name="cms вспыш и чудо-машинки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Вспыш и чудо-машинки
+http://cdn2.starcinemax.fun:2095/3005/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3007" tvg-name="cms щенячий патруль" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Щенячий патруль
+http://cdn2.starcinemax.fun:2095/3007/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3021" tvg-name="cms розовая пантера" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Розовая пантера
+http://cdn2.starcinemax.fun:2095/3021/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3044" tvg-name="cms охотники за привидениями" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Охотники за привидениями
+http://cdn2.starcinemax.fun:2095/3044/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3046" tvg-name="cms финес и ферб" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Финес и Ферб
+http://cdn2.starcinemax.fun:2095/3046/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3048" tvg-name="cms американский дракон джейк лонг" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Американский дракон Джейк Лонг
+http://cdn2.starcinemax.fun:2095/3048/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3051" tvg-name="cms новая семейка аддамс" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Новая семейка Аддамс
+http://cdn2.starcinemax.fun:2095/3051/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3041" tvg-name="cms симпсоны" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Симпсоны
+http://cdn2.starcinemax.fun:2095/3041/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0349" tvg-name="cms альф" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [мультфильмы]",CMS Альф
+http://cdn1.starcinemax.fun:2095/0349/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+
+
+#EXTINF:-1 tvg-id="0000" tvg-name="cms папины дочки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Папины дочки
+http://cdn1.starcinemax.fun:2095/0335/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms баффи – истреб. вампиров" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Баффи – истреб. вампиров
+http://cdn1.starcinemax.fun:2095/0351/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms доктор хаус" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Доктор хаус
+http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3040" tvg-name="cms сваты" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Сваты
+http://cdn2.starcinemax.fun:2095/3040/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3055" tvg-name="cms полтергейст: наследие" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Полтергейст: Наследие
+http://cdn2.starcinemax.fun:2095/3055/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0386" tvg-name="cms мисс марпл агаты кристи" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мисс Марпл Агаты Кристи
+http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0372" tvg-name="cms друзья" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Друзья
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0047" tvg-name="cms чернобль" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Чернобль
+http://cdn1.starcinemax.fun:2095/0047/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms игра престолов" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Игра престолов
+http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms по законам военного времени" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS По законам военного времени
+http://cdn1.starcinemax.fun:2095/0101/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms ивановы-ивановы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Ивановы-Ивановы
+http://cdn1.starcinemax.fun:2095/0118/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms воронины" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Воронины
+http://cdn1.starcinemax.fun:2095/0121/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms солдаты" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Солдаты
+http://cdn1.starcinemax.fun:2095/0125/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms байки митяя" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Байки Митяя
+http://cdn1.starcinemax.fun:2095/0145/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms сверхъестественное" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Сверхъестественное
+http://cdn1.starcinemax.fun:2095/0147/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms счастливы вместе" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Счастливы вместе
+http://cdn1.starcinemax.fun:2095/0306/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms любовь на районе" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Любовь на районе
+http://cdn1.starcinemax.fun:2095/0313/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms семья" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Семья
+http://cdn1.starcinemax.fun:2095/0316/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms каменская" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Каменская
+http://cdn1.starcinemax.fun:2095/0320/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms байки из склепа" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Байки из склепа
+http://cdn1.starcinemax.fun:2095/0350/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms беверли-хиллз 90210" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Беверли-Хиллз 90210
+http://cdn1.starcinemax.fun:2095/0352/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms бедная настя" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Бедная Настя
+http://cdn1.starcinemax.fun:2095/0353/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms великолепный век" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Великолепный век
+http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms во все тяжкие" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Во все тяжкие
+http://cdn1.starcinemax.fun:2095/0356/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms дежурная аптека" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Дежурная аптека
+http://cdn1.starcinemax.fun:2095/0357/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0358" tvg-name="cms да лунный" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Да "Лунный свет"
+http://cdn1.starcinemax.fun:2095/0358/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0359" tvg-name="cms секретные материалы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Секретные материалы
+http://cdn1.starcinemax.fun:2095/0359/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0360" tvg-name="cms ее звали никита" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Ее звали Никита
+http://cdn1.starcinemax.fun:2095/0360/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0361" tvg-name="cms зена" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Зена
+http://cdn1.starcinemax.fun:2095/0361/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0362" tvg-name="cms крутой уокер" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Крутой Уокер
+http://cdn1.starcinemax.fun:2095/0362/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0363" tvg-name="cms мажор" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мажор
+http://cdn1.starcinemax.fun:2095/0363/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0364" tvg-name="cms метод фрейда" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Метод Фрейда
+http://cdn1.starcinemax.fun:2095/0364/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0366" tvg-name="cms служба 911" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Служба 911
+http://cdn1.starcinemax.fun:2095/0366/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0367" tvg-name="cms склифасовский" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Склифасовский
+http://cdn1.starcinemax.fun:2095/0367/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0368" tvg-name="cms теория большого взрыва" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Теория большого взрыва
+http://cdn1.starcinemax.fun:2095/0368/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0371" tvg-name="cms кухня" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Кухня
+http://cdn1.starcinemax.fun:2095/0371/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0373" tvg-name="cms элен и ребята" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Элен и ребята
+http://cdn1.starcinemax.fun:2095/0373/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0385" tvg-name="cms сеняфедя" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS СеняФедя
+http://cdn1.starcinemax.fun:2095/0385/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0387" tvg-name="cms молодёжка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Молодёжка
+http://cdn1.starcinemax.fun:2095/0387/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0390" tvg-name="cms ищейка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Ищейка
+http://cdn1.starcinemax.fun:2095/0390/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0391" tvg-name="cms девушки с макаровым" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Девушки с Макаровым
+http://cdn1.starcinemax.fun:2095/0391/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0392" tvg-name="cms милиционер с рублёвки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Милиционер с Рублёвки
+http://cdn1.starcinemax.fun:2095/0392/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0400" tvg-name="cms пес" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Пес
+http://cdn1.starcinemax.fun:2095/0400/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0401" tvg-name="cms клиника" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Клиника
+http://cdn1.starcinemax.fun:2095/0401/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0402" tvg-name="cms восьмидесятые" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Восьмидесятые
+http://cdn1.starcinemax.fun:2095/0402/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0405" tvg-name="cms военные сериалы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Военные сериалы
+http://cdn1.starcinemax.fun:2095/0405/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0407" tvg-name="cms звёздные врата: атлантида" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Звёздные врата: Атлантида
+http://cdn1.starcinemax.fun:2095/0407/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0412" tvg-name="cms ольга hd" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Ольга HD
+http://cdn1.starcinemax.fun:2095/0412/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0430" tvg-name="cms возвращение в эдем" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Возвращение в Эдем
+http://cdn1.starcinemax.fun:2095/0430/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0431" tvg-name="cms гром в раю" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Гром в раю
+http://cdn1.starcinemax.fun:2095/0431/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0432" tvg-name="cms женаты и с детьми" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Женаты и с детьми
+http://cdn1.starcinemax.fun:2095/0432/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0435" tvg-name="cms спрут" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Спрут
+http://cdn1.starcinemax.fun:2095/0435/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0436" tvg-name="cms вовочка" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Вовочка
+http://cdn1.starcinemax.fun:2095/0436/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0437" tvg-name="cms прапорщик шматко или ё-моё" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Прапорщик Шматко или Ё-моё
+http://cdn1.starcinemax.fun:2095/0437/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0438" tvg-name="cms боец" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Боец
+http://cdn1.starcinemax.fun:2095/0438/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0441" tvg-name="cms последний из магикян" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Последний из Магикян
+http://cdn1.starcinemax.fun:2095/0441/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0452" tvg-name="cms зона. тюремный роман" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Зона. Тюремный роман
+http://cdn1.starcinemax.fun:2095/0452/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms ментовские войны" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Ментовские войны
+http://cdn2.starcinemax.fun:2095/0467/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms сериал крот" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Сериал крот
+http://cdn2.starcinemax.fun:2095/0645/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms дальнобойщики" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Дальнобойщики
+http://cdn2.starcinemax.fun:2095/0705/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms не родись красивой" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Не родись красивой
+http://cdn2.starcinemax.fun:2095/0710/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms убойная сила" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Убойная сила
+http://cdn2.starcinemax.fun:2095/0717/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms физрук" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Физрук
+http://cdn2.starcinemax.fun:2095/0731/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms коломбо" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Коломбо
+http://cdn2.starcinemax.fun:2095/0813/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms твин пикс" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Твин Пикс
+http://cdn2.starcinemax.fun:2095/0821/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms бригада" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Бригада
+http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms мир! дружба! жвачка!" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мир! Дружба! Жвачка!
+http://cdn2.starcinemax.fun:2095/0927/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms старый универ" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Старый Универ
+http://cdn2.starcinemax.fun:2095/0928/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms мылодрама" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мылодрама
+http://cdn2.starcinemax.fun:2095/0929/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms улицы разбитых фонарей" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Улицы разбитых фонарей
+http://cdn2.starcinemax.fun:2095/0930/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms мосгаз" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мосгаз
+http://cdn2.starcinemax.fun:2095/0931/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms дрейк и джош" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Дрейк и Джош
+http://cdn2.starcinemax.fun:2095/0973/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms звездный путь" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Звездный путь
+http://cdn2.starcinemax.fun:2095/09211/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0000" tvg-name="cms тнт премьер" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS ТНТ премьер
+http://cdn2.starcinemax.fun:2095/30000/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3043" tvg-name="cms доктор куин: женщина-врач" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Доктор Куин: Женщина-врач
+http://cdn2.starcinemax.fun:2095/3043/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="09212" tvg-name="cms звездный путь  вояджер" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Звездный путь  Вояджер
+http://cdn2.starcinemax.fun:2095/09212/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3000" tvg-name="cms академия амбрелла" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Академия "Амбрелла"
+http://cdn2.starcinemax.fun:2095/3000/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="1400" tvg-name="cms чоп" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS ЧОП
+http://cdn2.starcinemax.fun:2095/1400/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3001" tvg-name="cms клан сопрано" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Клан Сопрано
+http://cdn2.starcinemax.fun:2095/3001/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3002" tvg-name="cms мистер робот" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Мистер Робот
+http://cdn2.starcinemax.fun:2095/3002/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3004" tvg-name="cms наследники" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Наследники
+http://cdn2.starcinemax.fun:2095/3004/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3037" tvg-name="cms интерны" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Интерны
+http://cdn2.starcinemax.fun:2095/3037/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3038" tvg-name="cms агент национальной безопасности" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Агент национальной безопасности
+http://cdn2.starcinemax.fun:2095/3038/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3039" tvg-name="cms полицейский с рублевки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Полицейский с Рублевки
+http://cdn2.starcinemax.fun:2095/3039/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3053" tvg-name="cms боишься ли ты темноты?" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Боишься ли ты темноты?
+http://cdn2.starcinemax.fun:2095/3053/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3052" tvg-name="cms она написала убийство" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Она написала убийство
+http://cdn2.starcinemax.fun:2095/3052/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3054" tvg-name="cms тюрьма оз" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Тюрьма Оз
+http://cdn2.starcinemax.fun:2095/3054/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3057" tvg-name="cms сумеречная зона" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Сумеречная зона
+http://cdn2.starcinemax.fun:2095/3057/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3061" tvg-name="cms жуки" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Жуки
+http://cdn2.starcinemax.fun:2095/3061/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0417" tvg-name="cms чужой район" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS [сериалы]",CMS Чужой район
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0398" tvg-name="cms пятница 13" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Пятница 13
+http://cdn1.starcinemax.fun:2095/0398/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0921" tvg-name="cms hbo" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS HBO
+http://cdn2.starcinemax.fun:2095/0921/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3064" tvg-name="cms game movie" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Game movie
+http://cdn2.starcinemax.fun:2095/3064/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0190" tvg-name="cms дубляж" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Дубляж
+http://cdn1.starcinemax.fun:2095/0190/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0002" tvg-name="cms фронт" tvg-logo="https://starcinemax.ru/logo_cms.png" tvg-rec="1" catchup-type="flussonic" catchup_days="3" group-title="Кинозалы CMS",CMS Фронт
+http://cdn1.starcinemax.fun:2095/0002/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0049" tvg-name="cms marvel" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Marvel
+http://cdn1.starcinemax.fun:2095/0049/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0053" tvg-name="cms вампир" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Вампир
+http://cdn1.starcinemax.fun:2095/0053/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0062" tvg-name="cms круги ада" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Круги Ада
+http://cdn1.starcinemax.fun:2095/0062/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0094" tvg-name="cms агент 007" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Агент 007
+http://cdn1.starcinemax.fun:2095/0094/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0192" tvg-name="cms вестерн" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Вестерн
+http://cdn1.starcinemax.fun:2095/0192/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0300" tvg-name="cms black cinema" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Black Cinema
+http://cdn1.starcinemax.fun:2095/0300/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0301" tvg-name="cms comedy woman" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Comedy Woman
+http://cdn1.starcinemax.fun:2095/0301/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0310" tvg-name="cms драмы" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Драмы
+http://cdn1.starcinemax.fun:2095/0310/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0388" tvg-name="cms плащ и шпага" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Плащ и шпага
+http://cdn1.starcinemax.fun:2095/0388/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0503" tvg-name="cms cinema asia" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Asia
+http://cdn2.starcinemax.fun:2095/0503/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0639" tvg-name="cms гоблин" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Гоблин
+http://cdn2.starcinemax.fun:2095/0639/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0646" tvg-name="cms польские фильмы в советском прокате" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Польские фильмы в Советском прокате
+http://cdn2.starcinemax.fun:2095/0646/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0823" tvg-name="cms фантастика" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Фантастика
+http://cdn2.starcinemax.fun:2095/0823/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0825" tvg-name="cms индия" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Индия
+http://cdn2.starcinemax.fun:2095/0825/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0900" tvg-name="cms триллер" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Триллер
+http://cdn2.starcinemax.fun:2095/0900/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0909" tvg-name="cms старый добрый фильм" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Старый добрый фильм
+http://cdn2.starcinemax.fun:2095/0909/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0910" tvg-name="cms семейный" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Семейный
+http://cdn2.starcinemax.fun:2095/0910/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0912" tvg-name="cms ужасы vhs" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Ужасы VHS
+http://cdn2.starcinemax.fun:2095/0912/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0915" tvg-name="cms rucomedy" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS RUComedy
+http://cdn2.starcinemax.fun:2095/0915/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="0926" tvg-name="cms cinema sport" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Sport
+http://cdn2.starcinemax.fun:2095/0926/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="2024012" tvg-name="cms первый пограничный" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Первый Пограничный
+http://cdn2.starcinemax.fun:2095/2024012/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3010" tvg-name="cms годзилла" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Годзилла
+http://cdn2.starcinemax.fun:2095/3010/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3009" tvg-name="cms ангелы и демоны" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Ангелы и демоны
+http://cdn2.starcinemax.fun:2095/3009/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3012" tvg-name="cms cinema horror kids" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Horror Kids
+http://cdn2.starcinemax.fun:2095/3012/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3014" tvg-name="cms cinema аnimals" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Аnimals
+http://cdn2.starcinemax.fun:2095/3014/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3011" tvg-name="cms киборг" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Киборг
+http://cdn2.starcinemax.fun:2095/3011/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3013" tvg-name="cms cinema woman" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Woman
+http://cdn2.starcinemax.fun:2095/3013/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3016" tvg-name="cms cinema teens" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema Teens
+http://cdn2.starcinemax.fun:2095/3016/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3018" tvg-name="cms планета обезьян" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Планета обезьян
+http://cdn2.starcinemax.fun:2095/3018/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3022" tvg-name="cms cinema 90-х" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Cinema 90-х
+http://cdn2.starcinemax.fun:2095/3022/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3025" tvg-name="cms вирусы и эпидемии" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Вирусы и эпидемии
+http://cdn2.starcinemax.fun:2095/3025/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3034" tvg-name="cms полицейская академия" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Полицейская академия
+http://cdn2.starcinemax.fun:2095/3034/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
+#EXTINF:-1 tvg-id="3065" tvg-name="cms не сильный пол!" tvg-logo="https://starcinemax.ru/logo_cms.png" group-title="Кинозалы CMS",CMS Не сильный пол!
+http://cdn2.starcinemax.fun:2095/3065/index.m3u8?token=dGRkNTU0fHxUV2w1WTJOTVVrdz0=
 #EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Лесник
 http://cdn.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
 
