@@ -878,6 +878,9 @@ http://45.159.74.14/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
 http://stream01.vnet.am/InvestigationDiscovery/tracks-v1a2/mono.m3u8
 
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History SD
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://45.159.74.14:80/Channel_123/manifest.m3u8
 
