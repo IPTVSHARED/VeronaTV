@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 19.03.2025г 07:20
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 19.03.2025г 10:40
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2084,238 +2084,454 @@ http://olsib.stream4k.ru:2095/War/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0628/cf/91db2c1896ea5cf538cf66fbe342cacf.png" group-title="Кинозалы Olsib", Olsib Wrestling
 http://olsib.stream4k.ru:2095/Wrestling/index.m3u8?token=0JPRg9GJ0LA6Ym9hrewq234fvbn
 
-#EXTINF:-1 tvg-id="569" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8741/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Newfilm 1
-http://cdn.admuspeh.my/8741/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="570" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8742/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Newfilm 2
-http://cdn.admuspeh.my/8742/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="571" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%203%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8743/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Newfilm 3
-http://cdn.admuspeh.my/8743/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="579" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20NewFilm%20RU%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8706/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax NewFilm RU HD
-http://cdn.admuspeh.my/8706/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="591" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%201%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8442/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Семейный 1 HD
-http://cdn.admuspeh.my/8442/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="592" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9%202%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8449/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Семейный 2 HD
-http://cdn.admuspeh.my/8449/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="573" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8745/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Боевик
-http://cdn.admuspeh.my/8745/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="578" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8725/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Ужасы
-http://cdn.admuspeh.my/8725/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="584" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Love%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8328/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Love HD
-http://cdn.admuspeh.my/8328/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="575" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8708/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Комедия
-http://cdn.admuspeh.my/8708/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="991" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A4%D0%B0%D0%BD%D1%82%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%B0%20HD.png" catchup-days="0", MiniMax Фантастика HD
-http://cdn.admuspeh.my/8631/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="988" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A2%D1%80%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%20HD.png" catchup-days="0", MiniMax Триллер HD
-http://cdn.admuspeh.my/8778/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="989" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%82%D0%B8%D0%BA%20HD.png" catchup-days="0", MiniMax Ужастик HD
-http://cdn.admuspeh.my/8325/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="594" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A4%D0%BE%D0%B1%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8994/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Фобия HD
-http://cdn.admuspeh.my/8994/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="994" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup-days="0", MiniMax Драма HD
-http://cdn.admuspeh.my/8634/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="574" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B0%D1%82%D0%B0%D1%81%D1%82%D1%80%D0%BE%D1%84%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8746/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Катастрофа
-http://cdn.admuspeh.my/8746/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="972" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%80%D0%BD%20HD.png" catchup-days="0", MiniMax Вестерн HD
-http://cdn.admuspeh.my/8619/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="974" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%93%D1%80%D0%B0%D0%B9%D0%BD%D0%B4%D1%85%D0%B0%D1%83%D1%81%20HD.png" catchup-days="0", MiniMax Грайндхаус HD
-http://cdn.admuspeh.my/8621/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="978" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BB%20HD.png" catchup-days="0", MiniMax Криминал HD
-http://cdn.admuspeh.my/8624/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="577" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%B3%D0%B5%D1%80%D0%BE%D0%B8%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8710/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Супергерои
-http://cdn.admuspeh.my/8710/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="984" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D0%BD%D0%B5%D0%BC%D0%B0%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%20HD.png" catchup-days="0", MiniMax Синематограф HD
-http://cdn.admuspeh.my/8627/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="980" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9D%D1%83%D0%B0%D1%80%20HD.png" catchup-days="0", MiniMax Нуар HD
-http://cdn.admuspeh.my/8733/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="975" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%97%D0%B0%D1%82%D0%BC%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup-days="0", MiniMax Затмение HD
-http://cdn.admuspeh.my/8685/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="981" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20HD.png" catchup-days="0", MiniMax Погружение HD
-http://cdn.admuspeh.my/8799/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="588" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%BF%D0%B0%D0%BD%D0%BA%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8545/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Киберпанк HD
-http://cdn.admuspeh.my/8545/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1007" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B8%D0%BD%D0%BE%D1%84%D0%B5%D1%81%D1%82%D0%B8%D0%B2%D0%B0%D0%BB%D1%8C%20HD.png" catchup-days="0", MiniMax Кинофестиваль HD
-http://cdn.admuspeh.my/8658/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="993" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Translation%20HD.png" catchup-days="0", MiniMax Translation HD
-http://cdn.admuspeh.my/8633/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="970" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20World%20Hits%20HD.png" catchup-days="0", MiniMax World Hits HD
-http://cdn.admuspeh.my/8617/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="583" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Flip%20UHD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8404/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Flip UHD
-http://cdn.admuspeh.my/8404/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="987" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D1%82%D0%B8%D0%B2%D0%B5%D0%BD%20%D0%9A%D0%B8%D0%BD%D0%B3%20HD.png" catchup-days="0", MiniMax Стивен Кинг HD
-http://cdn.admuspeh.my/8629/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="585" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20UFO%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8410/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax UFO HD
-http://cdn.admuspeh.my/8410/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="986" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%BA%D0%BE%D1%80%D0%BE%D1%81%D1%82%D1%8C%20HD.png" catchup-days="0", MiniMax Скорость HD
-http://cdn.admuspeh.my/8916/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="593" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%BF%D0%BE%D1%80%D1%82%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8652/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Спорт HD
-http://cdn.admuspeh.my/8652/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="590" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%83%D0%BD%D0%B3-%D0%A4%D1%83%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8559/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Кунг-Фу HD
-http://cdn.admuspeh.my/8559/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="576" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A0%D0%BE%D1%81%D0%BA%D0%B8%D0%BD%D0%BE%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8709/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Роскино
-http://cdn.admuspeh.my/8709/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="976" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D0%BD%D0%B8%D0%BA%20HD.png" catchup-days="0", MiniMax Квартирник HD
-http://cdn.admuspeh.my/8622/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="589" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D1%80%D1%83%D1%82%D1%8B%D0%B5%2090-%D0%B5%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8547/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Крутые 90-е HD
-http://cdn.admuspeh.my/8547/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1003" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20OldSchool%20HD.png" catchup-days="0", MiniMax OldSchool HD
-http://cdn.admuspeh.my/8644/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="595" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Celebrity%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8991/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Celebrity HD
-http://cdn.admuspeh.my/8991/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="985" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%20HD.png" catchup-days="0", MiniMax Ситком HD
-http://cdn.admuspeh.my/8628/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1008" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B8%D1%82%D0%BA%D0%BE%D0%BC%202.0%20HD.png" catchup-days="0", MiniMax Ситком 2.0 HD
-http://cdn.admuspeh.my/8623/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="971" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%90%D0%B3%D0%B0%D1%82%D0%B0%20%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B8%20HD.png" catchup-days="0", MiniMax Агата Кристи HD
-http://cdn.admuspeh.my/8618/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="587" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8933/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax История HD
-http://cdn.admuspeh.my/8933/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="973" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%D0%BD%D1%8B%20HD.png" catchup-days="0", MiniMax Воронины HD
-http://cdn.admuspeh.my/8620/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="582" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A1%D0%B2%D0%B0%D1%82%D1%8B%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8893/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Сваты HD
-http://cdn.admuspeh.my/8893/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="982" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D0%BE%D0%BB%D0%B8%D1%86%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20%D1%81%20%D0%A0%D1%83%D0%B1%D0%BB%D1%91%D0%B2%D0%BA%D0%B8%20HD.png" catchup-days="0", MiniMax Полицейский с Рублёвки HD
-http://cdn.admuspeh.my/8626/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="960" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20007%20HD.png" catchup-days="0", MiniMax 007 HD
-http://cdn.admuspeh.my/8327/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="992" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Classic%20HD.png" catchup-days="0", MiniMax Classic HD
-http://cdn.admuspeh.my/8632/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="990" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%A3%D0%B6%D0%B0%D1%81%D1%8B%20Classic%20HD.png" catchup-days="0", MiniMax Ужасы Classic HD
-http://cdn.admuspeh.my/8630/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="977" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20Classic%20HD.png" catchup-days="0", MiniMax Комедия Classic HD
-http://cdn.admuspeh.my/8789/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="586" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA%20Classic%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8411/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Боевик Classic HD
-http://cdn.admuspeh.my/8411/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="572" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9A%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8744/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax USSR Комедия HD
-http://cdn.admuspeh.my/8744/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="581" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%94%D1%80%D0%B0%D0%BC%D0%B0%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8894/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax USSR Драма HD
-http://cdn.admuspeh.my/8894/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="580" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%94%D0%B5%D1%82%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8656/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax USSR Детектив HD
-http://cdn.admuspeh.my/8656/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="969" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%A1%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8%20HD.png" catchup-days="0", MiniMax USSR Сказки HD
-http://cdn.admuspeh.my/8616/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="967" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%201941-1945%20HD.png" catchup-days="0", MiniMax USSR 1941-1945 HD
-http://cdn.admuspeh.my/8614/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="968" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup-days="0", MiniMax USSR Приключения HD
-http://cdn.admuspeh.my/8615/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="598" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20USSR%20%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8913/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax USSR Мультфильм HD
-http://cdn.admuspeh.my/8913/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="963" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Live%20Planet%20HD.png" catchup-days="0", MiniMax Live Planet HD
-http://cdn.admuspeh.my/8599/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="964" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Relax%20HD.png" catchup-days="0", MiniMax Relax HD
-http://cdn.admuspeh.my/8793/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="983" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F%20HD.png" catchup-days="0", MiniMax Приключения HD
-http://cdn.admuspeh.my/8779/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="979" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B8%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F%20HD.png" catchup-days="0", MiniMax Мифология HD
-http://cdn.admuspeh.my/8625/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="995" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup-days="0", MiniMax Микромир HD
-http://cdn.admuspeh.my/8635/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="996" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B0%D0%BA%D1%80%D0%BE%D0%BC%D0%B8%D1%80%20HD.png" catchup-days="0", MiniMax Макромир HD
-http://cdn.admuspeh.my/8636/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="997" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9C%D0%B5%D0%B3%D0%B0%D0%BC%D0%B8%D1%80%20HD.png" catchup-days="0", MiniMax Мегамир HD
-http://cdn.admuspeh.my/8770/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1002" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Experiment%20HD.png" catchup-days="0", MiniMax Experiment HD
-http://cdn.admuspeh.my/8643/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1005" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20%D0%9E%D1%82%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D1%8F%20HD.png" catchup-days="0", MiniMax Открытия HD
-http://cdn.admuspeh.my/8647/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="965" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Rock%20HD.png" catchup-days="0", MiniMax Rock HD
-http://cdn.admuspeh.my/8679/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="599" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Walt%20Disney%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8914/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Walt Disney HD
-http://cdn.admuspeh.my/8914/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="597" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Tom%20and%20Jerry%20HD.png" catchup="default" catchup-days="1" catchup-source="http://cdn.admuspeh.my/8997/video-${start}-${duration}.m3u8?token=qwFZqkLzC2pK6whe" timeshift="1", MiniMax Tom and Jerry HD
-http://cdn.admuspeh.my/8997/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="961" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Honey%20HD.png" catchup-days="0", MiniMax Honey HD
-http://cdn.admuspeh.my/8895/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="962" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Lesson%20HD.png" catchup-days="0", MiniMax Lesson HD
-http://cdn.admuspeh.my/8897/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="1004" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Family%20Guy%20HD.png" catchup-days="0", MiniMax Family Guy HD
-http://cdn.admuspeh.my/8645/video.m3u8?token=qwFZqkLzC2pK6whe
-#EXTINF:-1 tvg-id="966" group-title="Кинозалы MiniMax [нестабильные]"  tvg-logo="https://m3u.admuspeh.my/icon/MM%20Smile%20HD.png" catchup-days="0", MiniMax Smile HD
-http://cdn.admuspeh.my/8587/video.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Лесник
-http://live.admuspeh.my/8767/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Ментовские Войны
-http://live.admuspeh.my/8802/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan VHS
-http://live.admuspeh.my/8807/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", Cartoons 90
-http://live.admuspeh.my/8812/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Скорая помощь
-http://live.admuspeh.my/8821/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan ПёС + Лихач
-http://live.admuspeh.my/8824/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Сваты
-http://live.admuspeh.my/8825/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Air Crash
-http://live.admuspeh.my/8826/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Симпсоны
-http://live.admuspeh.my/8833/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", Cartoons Big
-http://live.admuspeh.my/8866/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", Cartoons Short
-http://live.admuspeh.my/8867/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan РуКино
-http://live.admuspeh.my/8871/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Marvel
-http://live.admuspeh.my/8951/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan
-http://live.admuspeh.my/8952/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Premium
-http://cdn.admuspeh.my/8967/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Thriller
-http://live.admuspeh.my/8954/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Melodrama
-http://live.admuspeh.my/8955/video.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Катастрофы
-http://live.admuspeh.my/8957/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Комедийные сериалы
-http://live.admuspeh.my/8958/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Top
-http://live.admuspeh.my/8959/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Ужасы
-http://live.admuspeh.my/8960/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan MiniSeries
-http://live.admuspeh.my/8961/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Криминальные Сериалы
-http://cdn.admuspeh.my/8772/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Военные Сериалы
-http://cdn.admuspeh.my/8574/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Фитнес
-http://cdn.admuspeh.my/8771/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan OLD 4K
-http://cdn.admuspeh.my/8804/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan CCCP 4K
-http://cdn.admuspeh.my/8795/index.m3u8?token=qwFZqkLzC2pK6whe
-
-#EXTINF:-1 group-title="Кинозалы CineMan [нестабильные]", CineMan Relax 4K
-http://cdn.admuspeh.my/8822/index.m3u8?token=qwFZqkLzC2pK6whe
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x1
+https://s2.gencit.info/content/stream/films/top.gear.s01e01.rus.eng.alexfilm_74058/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x2
+https://s3.gencit.info/content/stream/films/top.gear.s01e02.satripavc.rus.eng.alexfilm_137648/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x3
+https://s3.gencit.info/content/stream/films/top.gear.s01e03.satripavc.rus.eng.alexfilm_137649/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x4
+https://s6.gencit.info/content/stream/films/top.gear.s01e04_537035/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x5
+https://s3.gencit.info/content/stream/films/top.gear.s01e05.satripavc.rus.eng.alexfilm_137650/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x8
+https://s6.gencit.info/content/stream/films/top.gear.s01e08_537038/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x9
+https://s6.gencit.info/content/stream/films/top.gear.s01e09_537039/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",1x10
+https://s3.gencit.info/content/stream/films/top.gear.s01e10.satripavc.rus.eng.alexfilm_137655/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x1
+https://s6.gencit.info/content/stream/films/s02e01_743798/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x2
+https://s6.gencit.info/content/stream/films/s02e02_743799/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x3
+https://s6.gencit.info/content/stream/films/s02e03_743800/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x4
+https://s6.gencit.info/content/stream/films/s02e04_743801/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x5
+https://s6.gencit.info/content/stream/films/s02e05_743802/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x6
+https://s6.gencit.info/content/stream/films/s02e06_743803/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x7
+https://s6.gencit.info/content/stream/films/s02e07_743804/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x8
+https://s6.gencit.info/content/stream/films/s02e08_743805/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x9
+https://s6.gencit.info/content/stream/films/s02e09_743806/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",2x10
+https://s6.gencit.info/content/stream/films/s02e10_743807/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x1
+https://s6.gencit.info/content/stream/films/s03e01_743808/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x2
+https://s6.gencit.info/content/stream/films/s03e02_743809/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x3
+https://s6.gencit.info/content/stream/films/s03e03_743810/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x4
+https://s6.gencit.info/content/stream/films/s03e04_743811/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x5
+https://s6.gencit.info/content/stream/films/s03e05_743812/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x6
+https://s6.gencit.info/content/stream/films/s03e06_743813/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x7
+https://s6.gencit.info/content/stream/films/s03e07_743814/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x8
+https://s6.gencit.info/content/stream/films/s03e08_743815/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",3x9
+https://s6.gencit.info/content/stream/films/s03e09_743816/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x1
+https://s6.gencit.info/content/stream/films/s04e01_743817/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x2
+https://s6.gencit.info/content/stream/films/s04e02_743818/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x3
+https://s6.gencit.info/content/stream/films/s04e03_743819/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x4
+https://s6.gencit.info/content/stream/films/s04e04_743820/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x5
+https://s6.gencit.info/content/stream/films/s04e05_743821/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x6
+https://s6.gencit.info/content/stream/films/s04e06_743822/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x7
+https://s6.gencit.info/content/stream/films/s04e07_743823/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x8
+https://s6.gencit.info/content/stream/films/s04e08_743824/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x9
+https://s6.gencit.info/content/stream/films/s04e09_743825/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",4x10
+https://s6.gencit.info/content/stream/films/s04e10_743826/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x1
+https://s6.gencit.info/content/stream/films/s05e01_743845/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x2
+https://s6.gencit.info/content/stream/films/s05e02_743846/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x3
+https://s6.gencit.info/content/stream/films/s05e03_743847/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x4
+https://s6.gencit.info/content/stream/films/s05e04_743848/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x5
+https://s6.gencit.info/content/stream/films/s05e05_743849/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x6
+https://s6.gencit.info/content/stream/films/s05e06_743850/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x7
+https://s6.gencit.info/content/stream/films/s05e07_743851/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x8
+https://s6.gencit.info/content/stream/films/s05e08_743852/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",5x9
+https://s6.gencit.info/content/stream/films/s05e09_743853/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x1
+https://s6.gencit.info/content/stream/films/s06e01_743854/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x2
+https://s6.gencit.info/content/stream/films/s06e02_743855/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x3
+https://s6.gencit.info/content/stream/films/s06e03_743856/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x4
+https://s6.gencit.info/content/stream/films/s06e04_743857/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x5
+https://s6.gencit.info/content/stream/films/s06e05_743858/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x6
+https://s6.gencit.info/content/stream/films/s06e06_743859/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x7
+https://s6.gencit.info/content/stream/films/s06e07_743860/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x8
+https://s6.gencit.info/content/stream/films/s06e08_743861/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x9
+https://s6.gencit.info/content/stream/films/s06e09_743862/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x10
+https://s6.gencit.info/content/stream/films/s06e10_743863/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",6x11
+https://s6.gencit.info/content/stream/films/s06e11_743864/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x1
+https://s6.gencit.info/content/stream/films/s07e01_743865/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x2
+https://s6.gencit.info/content/stream/films/s07e02_743866/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x3
+https://s6.gencit.info/content/stream/films/s07e03_743867/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x4
+https://s6.gencit.info/content/stream/films/s07e04_743868/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x5
+https://s6.gencit.info/content/stream/films/s07e05_743869/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x6
+https://s6.gencit.info/content/stream/films/s07e06_743870/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",7x7
+https://s6.gencit.info/content/stream/films/s07e07_743871/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x1
+https://s2.gencit.info/content/stream/films/top_gear__08x01_73814/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x2
+https://s2.gencit.info/content/stream/films/top_gear__08x02_73815/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x3
+https://s6.gencit.info/content/stream/films/s08e03_743874/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x4
+https://s2.gencit.info/content/stream/films/top_gear__08x04_73817/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x5
+https://s6.gencit.info/content/stream/films/s08e05_743876/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x6
+https://s2.gencit.info/content/stream/films/top_gear__08x06_73819/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x7
+https://s2.gencit.info/content/stream/films/top_gear__08x07_73820/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",8x8
+https://s6.gencit.info/content/stream/films/s08e08_743879/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x1
+https://s6.gencit.info/content/stream/films/s09e01_744863/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x2
+https://s6.gencit.info/content/stream/films/s09e02_744864/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x3
+https://s6.gencit.info/content/stream/films/s09e03_744865/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x4
+https://s6.gencit.info/content/stream/films/s09e04_744866/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x5
+https://s6.gencit.info/content/stream/films/s09e05_744867/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x6
+https://s6.gencit.info/content/stream/films/s09e06_744868/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",9x7
+https://s6.gencit.info/content/stream/films/s09e07_744869/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x1
+https://s2.gencit.info/content/stream/films/top_gear__10x01_73848/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x2
+https://s6.gencit.info/content/stream/films/s10e02_744875/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x3
+https://s6.gencit.info/content/stream/films/s10e03_744876/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x4
+https://s6.gencit.info/content/stream/films/s10e04_744877/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x5
+https://s6.gencit.info/content/stream/films/s10e05_744878/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x6
+https://s6.gencit.info/content/stream/films/s10e06_744879/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x7
+https://s6.gencit.info/content/stream/films/s10e07_744880/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x8
+https://s6.gencit.info/content/stream/films/s10e08_744881/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x9
+https://s2.gencit.info/content/stream/films/top_gear__10x09_73855/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",10x10
+https://s6.gencit.info/content/stream/films/s10e10_744883/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x1
+https://s2.gencit.info/vod/films/top_gear__11x01_73857/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x2
+https://s6.gencit.info/content/stream/films/s11e02_744886/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x3
+https://s6.gencit.info/content/stream/films/s11e03_744887/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x4
+https://s6.gencit.info/content/stream/films/s11e04_744888/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x5
+https://s6.gencit.info/content/stream/films/s11e05_744889/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",11x6
+https://s6.gencit.info/content/stream/films/s11e06_744890/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x1
+https://s6.gencit.info/content/stream/films/s12e01_744894/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x2
+https://s2.gencit.info/content/stream/films/top_gear__12x02_73864/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x3
+https://s2.gencit.info/content/stream/films/top_gear__12x03_73865/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x4
+https://s2.gencit.info/content/stream/films/top_gear__12x04_73866/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x5
+https://s2.gencit.info/content/stream/films/top_gear__12x05_73867/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x6
+https://s2.gencit.info/content/stream/films/top_gear__12x06_73868/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x7
+https://s2.gencit.info/content/stream/films/top_gear__12x07_73869/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",12x8
+https://s6.gencit.info/content/stream/films/s12e08_744901/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x1
+https://s6.gencit.info/content/stream/films/s13e01_744939/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x2
+https://s6.gencit.info/content/stream/films/s13e02_744940/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x3
+https://s6.gencit.info/content/stream/films/s13e03_744941/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x4
+https://s6.gencit.info/content/stream/films/s13e04_744942/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x5
+https://s6.gencit.info/content/stream/films/s13e05_744943/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x6
+https://s6.gencit.info/content/stream/films/s13e06_744944/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",13x7
+https://s6.gencit.info/content/stream/films/s13e07_744945/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x1
+https://s2.gencit.info/content/stream/films/top_gear__14x01_73875/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x2
+https://s2.gencit.info/content/stream/films/top_gear__14x02_73876/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x3
+https://s2.gencit.info/content/stream/films/top_gear__14x03_73877/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x4
+https://s2.gencit.info/content/stream/films/top_gear__14x04_73878/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x5
+https://s2.gencit.info/content/stream/films/top_gear__14x05_73879/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x6
+https://s6.gencit.info/content/stream/films/s14e06_744955/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",14x7
+https://s2.gencit.info/content/stream/films/top_gear__14x07_73880/hls/480/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x1
+https://s6.gencit.info/content/stream/films/s15e01_744957/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x2
+https://s6.gencit.info/content/stream/films/s15e02_744958/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x3
+https://s6.gencit.info/content/stream/films/s15e03_744959/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x4
+https://s6.gencit.info/content/stream/films/s15e04_744960/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x5
+https://s6.gencit.info/content/stream/films/s15e05_744961/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",15x6
+https://s6.gencit.info/content/stream/films/s15e06_744962/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16 x спецвыпуск
+https://s3.gencit.info/vod/films/top.gir.16.sezon.01.seriya.iz.06.2011.xvid.tvrip_240446/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x1
+https://s3.gencit.info/vod/films/top.gir.16.sezon.01.seriya.iz.06.2011.xvid.tvrip_240446/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x2
+https://s3.gencit.info/vod/films/top.gir.16.sezon.02.seriya.iz.06.2011.xvid.tvrip_240447/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x3
+https://s3.gencit.info/vod/films/top.gir.16.sezon.03.seriya.iz.06.2011.xvid.tvrip_240448/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x4
+https://s3.gencit.info/vod/films/top.gir.16.sezon.04.seriya.iz.06.2011.xvid.tvrip_240449/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x5
+https://s3.gencit.info/vod/films/top.gir.16.sezon.05.seriya.iz.06.2011.xvid.tvrip_240450/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",16x6
+https://s3.gencit.info/vod/films/top.gir.16.sezon.06.seriya.iz.06.2011.xvid.tvrip_240451/hls/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x1
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e01_720p_hdtv_dd2.0_vfr_x264_240467/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x2
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e02_720p_hdtv_dd2.0_vfr_x264_240468/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x3
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e03_720p_hdtv_dd2.0_vfr_x264_240469/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x4
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e04_720p_hdtv_dd2.0_vfr_x264_240470/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x5
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e05_720p_hdtv_dd2.0_vfr_x264_240471/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",17x6
+https://s2.gencit.info/content/stream/films/top_gear_uk_s17e06_720p_hdtv_dd2.0_vfr_x264_240472/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x1
+https://s6.gencit.info/content/stream/films/18x01_745486/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x2
+https://s6.gencit.info/content/stream/films/18x02_745487/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x3
+https://s6.gencit.info/content/stream/films/18x03_745488/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x4
+https://s6.gencit.info/content/stream/films/18x04_745489/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x5
+https://s6.gencit.info/content/stream/films/18x05_745490/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x6
+https://s6.gencit.info/content/stream/films/18x06_745491/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",18x7
+https://s6.gencit.info/content/stream/films/18x07_745492/hls/360/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x1
+https://s2.gencit.info/content/stream/films/top.gear.19x01.720p.hdtv.x264__240452/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x2
+https://s2.gencit.info/content/stream/films/top.gear.19x02.720p.hdtv.x264_240453/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x3
+https://s2.gencit.info/content/stream/films/top.gear.19x03.720p.hdtv.x264__240454/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x4
+https://s2.gencit.info/content/stream/films/top.gear.19x04.720p.hdtv.x264__240455/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x5
+https://s2.gencit.info/content/stream/films/top.gear.19x05.720p.hdtv.x264_240456/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x6
+https://s2.gencit.info/content/stream/films/top.gear.19x06.720p.hdtv.x264_240457/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",19x7
+https://s2.gencit.info/content/stream/films/top.gear.19x07.720p.hdtv.x264_240458/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x1
+https://s2.gencit.info/content/stream/films/top.gear.s20e01.1080i.alexfilm_240612/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x2
+https://s2.gencit.info/content/stream/films/top.gear.s20e02.1080i.alexfilm_240613/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x3
+https://s2.gencit.info/content/stream/films/top.gear.s20e03.1080i.alexfilm_240614/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x4
+https://s2.gencit.info/content/stream/films/top.gear.s20e04.1080i.alexfilm_240615/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x5
+https://s2.gencit.info/content/stream/films/top.gear.s20e05.1080i.alexfilm_240616/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",20x6
+https://s2.gencit.info/content/stream/films/top.gear.s20e06.1080i.alexfilm_240617/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x1
+https://s3.gencit.info/content/stream/films/top.gear.s21e01.hdtv.1080i.by.aktep_265399/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x2
+https://s3.gencit.info/content/stream/films/top.gear.s21e02.hdtv.1080i.by.aktep_265400/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x3
+https://s3.gencit.info/content/stream/films/top.gear.s21e03.hdtv.1080i.by.aktep_265401/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x4
+https://s3.gencit.info/content/stream/films/top.gear.s21e04.hdtv.1080i.by.aktep_265402/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x5
+https://s3.gencit.info/content/stream/films/top.gear.s21e05.hdtv.1080i.by.aktep_265403/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x6
+https://s3.gencit.info/content/stream/films/top.gear.s21e06.hdtv.1080i.by.aktep_265404/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",21x7
+https://s3.gencit.info/content/stream/films/top.gear.s21e07.hdtv.1080i.by.aktep_265405/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x1
+https://s2.gencit.info/content/stream/films/top.gear.s24e01.jetvis.paravozik_71558/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x2
+https://s2.gencit.info/content/stream/films/top.gear.s24e02.jetvis.paravozik_71559/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x3
+https://s2.gencit.info/content/stream/films/top.gear.s24e03.jetvis.paravozik_71560/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x4
+https://s2.gencit.info/content/stream/films/top.gear.s24e04.jetvis.paravozik_71561/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x5
+https://s2.gencit.info/content/stream/films/top.gear.s24e05.jetvis.paravozik_71562/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x6
+https://s2.gencit.info/content/stream/films/top.gear.s24e06.jetvis.paravozik_71563/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",22x7
+https://s2.gencit.info/content/stream/films/top.gear.s24e07.jetvis.paravozik_71564/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x1
+https://s3.gencit.info/content/stream/films/top.gear.s23e01.720p.hdtv.x264jaskier_240527/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x2
+https://s3.gencit.info/content/stream/films/top.gear.s23e02.720p.hdtv.x264jaskier_240528/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x3
+https://s3.gencit.info/content/stream/films/top.gear.s23e03.720p.hdtv.x264jaskier_240529/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x4
+https://s3.gencit.info/content/stream/films/top.gear.s23e04.720p.hdtv.x264jaskier_240530/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x5
+https://s3.gencit.info/content/stream/films/top.gear.s23e05.720p.hdtv.x264jaskier_240531/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",23x6
+https://s3.gencit.info/content/stream/films/top.gear.s23e06.720p.hdtv.x264jaskier_240532/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x1
+https://s2.gencit.info/content/stream/films/top.gear.s24e01.jetvis.paravozik_71558/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x2
+https://s2.gencit.info/content/stream/films/top.gear.s24e02.jetvis.paravozik_71559/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x3
+https://s2.gencit.info/content/stream/films/top.gear.s24e03.jetvis.paravozik_71560/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x4
+https://s2.gencit.info/content/stream/films/top.gear.s24e04.jetvis.paravozik_71561/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x5
+https://s2.gencit.info/content/stream/films/top.gear.s24e05.jetvis.paravozik_71562/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x6
+https://s2.gencit.info/content/stream/films/top.gear.s24e06.jetvis.paravozik_71563/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",24x7
+https://s2.gencit.info/content/stream/films/top.gear.s24e07.jetvis.paravozik_71564/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x1
+https://s2.gencit.info/content/stream/films/top.gear.s25e01.jetvis.studio_253991/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x2
+https://s2.gencit.info/content/stream/films/top.gear.s25e02.jetvis.studio_253992/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x3
+https://s2.gencit.info/content/stream/films/top.gear.s25e03.jetvis.studio_253993/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x4
+https://s2.gencit.info/content/stream/films/top.gear.s25e04.jetvis.studio_253994/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x5
+https://s2.gencit.info/content/stream/films/top.gear.s25e05.jetvis.studio_253995/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",25x6
+https://s2.gencit.info/content/stream/films/top.gear.s25e06.jetvis.studio_253996/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",26x1
+https://s2.gencit.info/content/stream/films/top.gear.s26e01.jetvis.studio_90046/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",26x2
+https://s1.gencit.info/content/stream/films/top.gear.s26e02.jetvis.studio_540471/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",26x3
+https://s1.gencit.info/content/stream/films/top.gear.s26e03.jetvis.studio_540472/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",26x4
+https://s2.gencit.info/content/stream/films/top.gear.s26e04.jetvis.studio_92711/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",26x5
+https://s2.gencit.info/content/stream/films/top.gear.s26e05.jetvis.studio_93683/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",27x1
+https://s3.gencit.info/content/stream/films/top.gear.s27e01.jetvis.studio_253997/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",27x2
+https://s3.gencit.info/content/stream/films/top.gear.s27e02.jetvis.studio_253998/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",27x3
+https://s3.gencit.info/content/stream/films/top.gear.s27e03.jetvis.studio_253999/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",27x4
+https://s3.gencit.info/content/stream/films/top.gear.s27e04.jetvis.studio_254000/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",27x5
+https://s3.gencit.info/content/stream/films/top.gear.s27e05.jetvis.studio_254001/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",28x1
+https://s1.gencit.info/content/stream/films/top.gear.s28e01.jetvis.studio_537204/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",28x2
+https://s1.gencit.info/content/stream/films/top.gear.s28e02.jetvis.studio_537205/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",28x3
+https://s1.gencit.info/content/stream/films/top.gear.s28e03.jetvis.studio_537206/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",28x4
+https://s1.gencit.info/content/stream/films/top.gear.s28e04.jetvis.studio_537207/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",28x5
+https://s1.gencit.info/content/stream/films/top.gear.s28e05.jetvis.studio_537208/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",29x1
+https://s3.gencit.info/content/stream/films/top.gear.s29e01.jetvis.studio_230159/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",29x2
+https://s3.gencit.info/content/stream/films/top.gear.s29e02.jetvis.studio_231762/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",29x3
+https://s3.gencit.info/content/stream/films/top.gear.s29e03.jetvis.studio_233496/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",29x4
+https://s2.gencit.info/content/stream/films/top.gear.s29e04.jetvis.studio_235331/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",29x5
+https://s3.gencit.info/content/stream/films/top.gear.s29e05.jetvis.studio_236899/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",30x1
+https://s3.gencit.info/content/stream/films/top.gear.s30e01.jetvis.studio_257031/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",30x2
+https://s3.gencit.info/content/stream/films/top.gear.s30e02.jetvis.studio_258346/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",30x3
+https://s3.gencit.info/content/stream/films/top.gear.s30e03.jetvis.studio_260370/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",30x4
+https://s3.gencit.info/content/stream/films/top.gear.s30e04.jetvis.studio_261827/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x1
+https://s3.gencit.info/content/stream/films/top.gear.s31e01.jetvis.studio_358687/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x2
+https://s2.gencit.info/content/stream/films/top.gear.s31e02.hdr1080p.webrip.x265.rus.eng.baibako.tv_347564/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x3
+https://s4.gencit.info/content/stream/films/top.gear.s31e03.hd1080p.webrip.rus.baibako.tv_350280/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x4
+https://s4.gencit.info/content/stream/films/top.gear.s31e04.hd1080p.webrip.rus.baibako.tv_351429/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x5
+https://s4.gencit.info/content/stream/films/top.gear.s31e05.hd1080p.webrip.rus.baibako.tv_353027/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",31x6
+https://s3.gencit.info/content/stream/films/top.gear.driving.home.for.christmas.s31e00.hd1080p.webrip.rus.baibako.tv_355582/hls/1080/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",32x1
+https://s4.gencit.info/content/stream/films/top.gear.s32e01.720p.coldfilm_380514/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",32x2
+https://s2.gencit.info/content/stream/films/top.gear.s32e02.720p.coldfilm_381288/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",32x3
+https://s3.gencit.info/content/stream/films/top.gear.s32e03.720p.coldfilm_386138/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",32x4
+https://s3.gencit.info/content/stream/films/top.gear.s32e04.720p.coldfilm_387762/hls/720/index.m3u8
+#EXTINF:-1 tvg-id="no_epg" group-title="Кинозал Top Gear" tvg-logo="https://i.postimg.cc/qRqBdqY5/1.jpg",32x5
+https://s3.gencit.info/content/stream/films/top.gear.s32e05.720p.coldfilm_388442/hls/720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://only4.tv/ch/822.png" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Детские", Карусель
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -3879,187 +4095,6 @@ http://59ec5453559f0.streamlock.net:1935/Miamitv/smil:WEB4141/chuklist.m3u8
 
 #EXTINF:-1 tvg-id="no_epg_xxx" tvg-logo="https://www.eropuls.de/out/flow/img/shoplogo.png" group-title="Взрослые [ВХОД СТРОГО 18+]",Eropuls DE 18+
 https://api.alpaca.t62a.com/hls/9108/stream0.m3u8
-
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY ABELLADANGER HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563918
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY ADRIANACHECHIK HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563917
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY ADULT TIME HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563916
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY ANAL ONLY HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563915
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY ANGELAWHITE HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563914
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY AUTUMNFALLS HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563913
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BABES TV HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563912
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BANG BROS 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563911
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BANG BROS 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563910
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BLACKED! HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563909
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BLACKEDRAW! HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563908
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BRATTYSIS HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563907
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BRAZZERS 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563906
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BRAZZERS 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563905
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BRAZZERS 3 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563904
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY BRIGETTE B HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563903
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY CANELASKIN HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563902
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY DEEPER! HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563901
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY DP 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563900
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY DP 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563899
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY EVIL ANGEL HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563898
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY FAKE HOSTEL HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563897
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY FAKE HUB HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563896
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY FAKE TAXI HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563895
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY HARD X HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563894
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY JADASTEVANS HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563893
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY JULES JORDAN HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563892
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY KELSIMONROE HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563891
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY KIRANOIR HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563890
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LANARHOADES HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563889
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LASIRENA69 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563888
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LENAPAUL HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563887
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LESBIANS HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563886
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LUNASTAR HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563885
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY LUXURYGIRL HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563884
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY MASSAGED HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563883
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY MIAMALKOVA HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563882
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY MOFOS 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563881
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY MOFOS 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563880
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY MYLF HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563879
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY NICOLEANISTON HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563878
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY NUGHTYAMERICA HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563877
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY NYMPHO HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563876
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY PERMOM HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563875
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY PROPERTYSEX HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563874
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY PURETABOO HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563873
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY RAELILBLACK HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563872
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY REALITYJUNKIES HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563871
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY REALITY KINGS 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563870
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY REALITY KINGS 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563869
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SAVANNAHBOND HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563868
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SERIE 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563867
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SERIE 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563866
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SINFULRAW HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563865
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SISI LOVES ME HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563864
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY SWEETSINNER HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563863
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY TEAM SKEET HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563862
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY TRUEANAL HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563861
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY VIOLETMYERS HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563859
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY VIXEN HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563858
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX PLAY WICKED HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563857
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE INFO HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563856
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563855
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563854
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 3 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563853
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 4 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563852
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 5 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563851
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 6 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563850
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 7 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563849
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 8 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563848
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 9 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563847
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 10 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563846
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 11 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563845
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 12 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563844
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 13 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563843
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 14 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563842
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 15 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563841
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 16 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563840
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 17 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563839
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 18 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563838
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ PREMIERE 19 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563837
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES INFO HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563836
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 1 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563835
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 2 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563834
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 3 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563833
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 4 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563832
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 5 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563831
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 6 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563830
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 7 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563829
-#EXTINF:0 tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",XXX: ONE XXX ZZ SERIES 8 HD
-http://promaxhd.com:8080/Mig501/4fYZmcnh1y/563828
 
 #EXTINF:-1 tvg-logo="http://i123.fastpic.org/big/2024/0716/50/20497257390becd38ff0f6f5e282c550.png" tvg-id="no_epg_xxx" group-title="Взрослые [ВХОД СТРОГО 18+]",Rough
 http://cdn.adultiptv.net/rough.m3u8
