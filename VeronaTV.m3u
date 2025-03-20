@@ -852,26 +852,11 @@ http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD
 https://tv.movielab.pro/143/video.m3u8?token=bde66c7a85d1b125e3079f05c627460573643710-482bf705fa4d83b77d59ce5fde8a7f6c-1742543600-1742457200
 
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
-http://ott.server-iptv.live/402/video.m3u8?token=S793FB1732
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery HD
-http://ott.server-iptv.live/401/video.m3u8?token=S793FB1732
-
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
 https://tv.movielab.pro/147/video.m3u8?token=800ac33206827edd4405c9bd9a792fc5d949a9cb-e6424199ed5c8394ab017cf424673131-1742543600-1742457200
 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные",ID Investigation Discovery EU
-http://ott.server-iptv.live/443/video.m3u8?token=S793FB1732
-
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
-http://ott.server-iptv.live/414/video.m3u8?token=S793FB1732
-
-#EXTINF:-1 tvg-id="H2" group-title="Познавательные", History2 HD
-http://ott.server-iptv.live/415/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="hgtv-pl" group-title="Познавательные", HGTV HD [PL]
 http://178.219.128.68:64889/HGTVHD
@@ -1162,11 +1147,8 @@ https://stream-msk-18.ott.tricolor.tv:443/dtv/id992_MSKSG-PVR-1--Kineko_HD/04/pl
 #EXTINF:-1 tvg-id="sapfir" group-title="Кино и сериалы", Сапфир HD
 https://stream-msk-17.ott.tricolor.tv/dtv/id991_MSKSG-PVR-1--Sapphire_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское
-http://ott.server-iptv.live/621/video.m3u8?token=S793FB1732
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-russkoe-kino" group-title="Кино и сериалы",Viju TV1000 Русское HD
-http://hls.peers.tv/streaming/tv_1000_rus_kino/16/gvh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
+http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000
 http://91.205.199.3/tv1000/index.m3u8
@@ -1381,12 +1363,6 @@ http://api.peers.tv/timeshift/zee-tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIs
 
 #EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FOX
 http://45.143.108.110:2203/FOX
-
-#EXTINF:-1 tvg-id="fox" group-title="Кино и сериалы", FX
-http://ott.server-iptv.live/626/video.m3u8?token=S793FB1732
-
-#EXTINF:-1 tvg-id="foxlife" group-title="Кино и сериалы", FOX Life
-http://ott.server-iptv.live/646/video.m3u8?token=S793FB1732
 
 #EXTINF:-1 tvg-id="flixsnip" group-title="Кино и сериалы", FlixSnip
 http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
