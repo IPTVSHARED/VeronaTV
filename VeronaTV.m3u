@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 20.03.2025г 15:50
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 21.03.2025г
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -274,7 +274,7 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 https://stream-msk-17.ott.tricolor.tv/dtv/id947_MSKSG-PVR-1--KZ24_SD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
 #EXTINF:-1 tvg-id="ufc" group-title="Спортивные",Удар
-https://tv.movielab.pro/4111/video.m3u8?token=8afcf7e4630ec38760cea028f1b6117859428047-b33b0717353a7fe5872631e3da679823-1742543600-1742457200
+https://tv.movielab.pro/4111/video.m3u8?token=0fe45688e69407634766e17629b64fddc1a59ce1-4e5efaa2aed2aa90c3e3d84beee8deeb-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="fightklub-pl" group-title="Спортивные", FightKlub HD [PL]
 http://185.236.229.62:9981/play/a02l
@@ -292,7 +292,7 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ
-http://185.139.68.158/channel/49d8aeeb/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
+http://31.148.48.15:80/Boks_TV/index.m3u8?token=test
 
 #EXTINF:-1 tvg-id="box-tv" group-title="Спортивные", БОКС ТВ HD
 http://31.184.194.43:8080/2/index.m3u8
@@ -310,16 +310,13 @@ https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/pl
 http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
-http://185.139.68.158/channel/n50dee4da/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
+https://livetv.mylifeisgood.net.ru/channels/4f7d639400fc4c4bbf1bc67afe6403e51288850e5f13441043684b8d8ea12c9d.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD CEE
-https://tv.movielab.pro/145/video.m3u8?token=342d31981bab41110f653968a66f61b30f0804b7-9b1544facc276c62aff9e499e90111a3-1742543600-1742457200
+https://tv.movielab.pro/145/video.m3u8?token=71b8c75f297c6fc8855ef2ca902b61dfe75b57f6-9caa4deacfbf6ed3af0bbc78ca6e2c21-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
 http://rr2.73mtv.org/~109e1a3c05fcad5b22d13b9453dc0db5122/58/hls/pl.m3u8
-
-#EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 CEE
-http://185.139.68.158/channel/68bf00c8/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD ES
 http://185.189.225.157/EuroSport2/index.m3u8
@@ -353,7 +350,7 @@ http://live-mirror-01.ott.tricolor.tv/live/live/match/hls_enc/match-avc1_2000000
 http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
 
 #EXTINF:-1tvg-id="match-arena" group-title="Спортивные", Матч! Арена HD
-https://tv.movielab.pro/146/video.m3u8?token=f5e5102782d246d5ec02d9457681d99f90d27095-7eb11e1d0386705e2105e56b9a9aa845-1742543600-1742457200
+https://tv.movielab.pro/146/video.m3u8?token=57942e53ec8cad05ad95b02f602edf4178a05f88-66bf5be81e6d7c4bf49d492f9238ff42-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="match-boets" group-title="Спортивные", Матч Боец
 http://87.120.142.11:18000/Match!
@@ -367,29 +364,26 @@ http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiI
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч Страна
 http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
 
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные",Матч! Планета
-http://185.139.68.158/channel/2ccf05f1/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
-
 #EXTINF:-1 tvg-id="match-premier" group-title="Спортивные", Матч! Премьер HD
-https://tv.movielab.pro/250/video.m3u8?token=80473fa15a5f1f65aca545aebf912f316b474a45-be777fe3e8edbd015a50fad64f2454a0-1742543600-1742457200
+https://tv.movielab.pro/250/video.m3u8?token=77e3eda16c23cf7a62415d009db64b03e3344d77-747630702dc8c95600c213e9e22e7639-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="match-football1" group-title="Спортивные", Матч! Футбол 1 HD
-https://tv.movielab.pro/260/video.m3u8?token=73ee7024cc5f9bb19db655959600379d32d6c633-a787d822455644641400a6710e5f6664-1742543600-1742457200
+https://tv.movielab.pro/260/video.m3u8?token=cdd9c8fee5174d41796deabddab1eb79ac3022db-320d2317c273f3df61e748da1316cccf-1742630034-1742543634
 
 #EXTINF:- 1tvg-id="match-football2" group-title="Спортивные", Матч! Футбол 2 HD
-https://tv.movielab.pro/271/video.m3u8?token=b69bc33df04d49ee30339862ceb4164d78f1b81e-f2127820c66e034b2e808a71d1196b38-1742543600-1742457200
+https://tv.movielab.pro/271/video.m3u8?token=b5bcf62ca31810de03ec6443202923da5a7c4a65-4f754ccc73b37a02f0ea09694ac665f9-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="match-football3" group-title="Спортивные", Матч! Футбол 3 HD
-https://tv.movielab.pro/329/video.m3u8?token=fbbc5e65e13b243ca621f944bcc8347f535e6c0f-78e32eb69552dcc0281780727f984144-1742543600-1742457200
+https://tv.movielab.pro/329/video.m3u8?token=faecc52215db9312c4e36e0eab22cb1ebeb40257-8d1de4760e18474e61fc8b3d5edbec4f-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="setanta-sports" group-title="Спортивные", Сетанта Спорт 1 HD
-https://tv.movielab.pro/942/video.m3u8?token=7926d3230622065f7e7a439e668ff2c48de55932-2eb865ee05c142ead5555f5246bb8002-1742543600-1742457200
+https://tv.movielab.pro/942/video.m3u8?token=03db2f4bdd3c686407294e6124218b85ec7f571b-b602f3f9d0ea1200e7de9dcadf9f6fd4-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="setanta-sports-plus" group-title="Спортивные", Сетанта Спорт 2 HD
-https://tv.movielab.pro/943/video.m3u8?token=5b336017bd6886823b380abe6df40dd1cfb12b45-dbaedc772bf9234ad731bd5d5af21187-1742543600-1742457200
+https://tv.movielab.pro/943/video.m3u8?token=0f82efdee964e3ddb1a9ee815c87810843e2f165-8daf1590c329c7d9a248dd17189a898f-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные", Setanta Казахстан
-https://tv.movielab.pro/5094/video.m3u8?token=d6850521d25ec80b40e29e4dcdae0575ce6ed079-076b7d3b2ba9b1b3fd0354cd2970559c-1742543600-1742457200
+https://tv.movielab.pro/5094/video.m3u8?token=c82ade56dc83820d245c78e769a0f8b11545072b-cfb62ba934f580a5d31d974700d0a56e-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport
 http://s3.merlive.am/viasatsport/index.m3u8
@@ -401,7 +395,7 @@ https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04
 http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
 
 #EXTINF:-1 tvg-id="nba-tv" group-title="Спортивные", NBA TV
-https://tv.movielab.pro/9984/video.m3u8?token=8da9931deb10c40035a897d4d64acf44e30405e6-87efb85b2f66491c30e6d8a2c6a10983-1742543600-1742457200
+https://tv.movielab.pro/9984/video.m3u8?token=f35ce7d37c4c35f918574dd1fd1a9fc8ea95759c-b2c77c44fd3b9448ea424a247da48088-1742630034-1742543634
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kxl" group-title="Спортивные", КХЛ
 http://api.peers.tv/timeshift/khl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
@@ -413,7 +407,7 @@ http://178.124.152.238:8088/khl
 http://api.peers.tv/timeshift/kxl_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
 
 #EXTINF:-1 tvg-id="kxl-hd" group-title="Спортивные", KHL Prime
-https://tv.movielab.pro/177/video.m3u8?token=255e86c7c01ee571663c5ce83683b70b1f867dec-74d0459cb2d05fdc24600ce2d9c20c90-1742543600-1742457200
+https://tv.movielab.pro/177/video.m3u8?token=30c3ecb05ac8b7e88639d390ede6f9525532d463-1658e1dad5c2aaec56645f95b15d394c-1742630034-1742543634
 
 #EXTINF:-1 group-title="Спортивные",Хоккей ТВ
 https://stream-msk-09.ott.tricolor.tv/dtv/id700_MSKSG-PVR-1--Hokeinii_HD/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0Mjc5NTc1MywiaHdpZCI6IjU2NmM5YTVmNzYxZGYwYmYzYWQ5NDNkZmMyNjM0YzgyNjFhYjg3MjQyMTVkNDFhNjVmODZjMzI0ZmM5MGUxMDEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyMTkwOTUzLCJzZXNzaW9uX2lkIjoiNmY2MjBjYmQwN2JmOGM3N2M5Y2Y4NGRkMTc4NmEyNGYiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.25d6ImROxOXX5kg5gf5CfGKkZKXM0N5jWZ--0zleEho
@@ -841,19 +835,25 @@ http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
-https://tv.movielab.pro/162/video.m3u8?token=51ee875b753776255eb0452a567f5461e27371bd-b4f1165dfb56fb1ca0a77aab547f978a-1742543600-1742457200
+http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
+
+#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild SD
+https://tv.movielab.pro/162/video.m3u8?token=47b3bc21cdee7bb64b8108fb969340b1590f8a8e-0dc767f7995c168e791480fd4d373ab7-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-https://bl.rutube.ru/livestream/9f96e00ce0f4256c6ad608aaf580bf88/index.m3u8?s=M7xsNpxb1SuR7qU-9_KCfQ&e=1742547855&scheme=https
+https://bl.rutube.ru/livestream/c18137e3491619017f984f84598035ec/index.m3u8?s=u0mh65W93EgvW3J_InSEDg&e=1742634623&scheme=https
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic SD
-https://tv.movielab.pro/143/video.m3u8?token=bde66c7a85d1b125e3079f05c627460573643710-482bf705fa4d83b77d59ce5fde8a7f6c-1742543600-1742457200
+https://tv.movielab.pro/143/video.m3u8?token=26c215a5c68a13fa96d5c02c292a79079c2fcf96-89514c7caa76b0615aebb3142fe03e51-1742630034-1742543634
+
+#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
+http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные",Discovery Channel HD
-https://tv.movielab.pro/147/video.m3u8?token=800ac33206827edd4405c9bd9a792fc5d949a9cb-e6424199ed5c8394ab017cf424673131-1742543600-1742457200
+https://tv.movielab.pro/147/video.m3u8?token=a7277c45fc54ebbfd7c4e94c6e86d4150166a135-5b6d83baecd0ab7879de6e950b4e34d4-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
@@ -3478,13 +3478,13 @@ http://91.146.94.234:10000/play/a06e
 http://s3.merlive.am/roos-nickelodeon/manifest.m3u8
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
-https://tv.movielab.pro/174/video.m3u8?token=8a17ce7824b1f8d432b4876bcff678749887f69b-b5a443351e196723d2eb6a3ffaa6dc86-1742543600-1742457200
+https://tv.movielab.pro/174/video.m3u8?token=4831169d01d64ddc0160388d8e0046e19e683236-a32c18e786a755346101f8a61b0b6723-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="nick-jr" group-title="Детские",Nick Jr
-http://185.139.68.158/channel/n4c987de6/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
+http://178.219.128.68:64888/NICKJR
 
 #EXTINF:-1 tvg-id="nicktoons" group-title="Детские",Nicktoons
-http://185.139.68.158/channel/n41c6b9db/index.m3u8?q=ac92b9074619cb05c5fe702711df497d
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}"  group-title="Детские", TiJi
 http://api.peers.tv/timeshift/tiji/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDI1NjQ3ODAsImlhdCI6MTc0MjQ3ODM4MCwiY2lkIjo2LCJ1aWQiOjkwMjkxMzQxNSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XSwhs0GsS0rFLhB2vowsZu8bh1Rkr0YBzZmjf_c3Efo&offset=3
@@ -3508,7 +3508,7 @@ http://api.peers.tv/timeshift/red/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
 
 #EXTINF:-1 tvg-id="Kinoshka KIDS HD" tvg-logo="http://i120.fastpic.org/big/2022/0721/bb/f4e7fda98f485cfbb9f62ab0757987bb.png" group-title="Детские", Kinoshka KIDS HD
-https://tv.movielab.pro/9993/video.m3u8?token=8a94c55eed7a3b14c2e53a210907ebe72334cfc8-457b18386330633f4844c269dc689f8b-1742543600-1742457200
+https://tv.movielab.pro/9993/video.m3u8?token=a123d0b66b4975605f20dee1a6cb771fcb7520d5-9deda187933931523dc464a32a708018-1742630034-1742543634
 
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="https://radiokids.fm/wp-content/themes/sanfirst/images/logo.png" group-title="Детские",Радио Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
