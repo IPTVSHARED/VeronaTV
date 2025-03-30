@@ -633,10 +633,6 @@ https://stream-msk-11.ott.tricolor.tv:443/dtv/id878_MSKSG-PVR-1--Nash_sport29/03
 #EXTINF:-1 tvg-logo="http://www.rusbandy.ru/pix/59226.jpeg" tvg-id="no_epg_sport" group-title="Наш спорт",Наш спорт 30
 https://stream-msk-18.ott.tricolor.tv/dtv/id1026_MSKSG-PVR-1--Nash_sport30/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0MzM5MDk0MywiaHdpZCI6ImZjY2Q5NTRlMjRjMjFjYzYxZDYxYmEyYTdjMGMxMDYwZTBmNjMwZjZhYzc0MTMyMTM1OWQ1NzIwOWZkMDg0OWEiLCJsYXN0X3JlcV9kYXRlIjoxNzQyNzg2MTQzLCJzZXNzaW9uX2lkIjoiMTlmZmI5ZjZhY2I2MmMwMTQxOGE4ZjVkNDNkMDc2MzkiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.CpOOvo4OSleQS9BbQeu7ukun6IQUX9U2__GRP12SkKM
 
-#EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://images.iptv.rt.ru/images/ch4dk93mhk079s3jpo50.png" group-title="Развлекательные",Всё ТВ Трейлеры
-#EXTVLCOPT:http-user-agent=SmartTV
-http://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-
 #EXTINF:-1 catchup="append" tvg-logo="https://i116.fastpic.org/big/2021/1107/d9/129dc2e5164bfcd303ad98fbde6e78d9.png" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Развлекательные",Пятница
 #EXTVLCOPT:http-user-agent=SmartTV
 http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
