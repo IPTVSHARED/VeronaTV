@@ -1,6 +1,12 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 03.04.2025г 13:30
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo2.jpg" group-title="ИНФО", HTTPS://T.ME/IPTVSHARED
+https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo.jpg" group-title="ИНФО", Поддержка проекта
+https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/YouCut_20250317_151519049.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 03.04.2025г 14:00
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1190,13 +1196,13 @@ http://api.peers.tv/timeshift/tv_1000_rus_kino/16/playlist.m3u8?token=eyJhbGciOi
 http://195.158.222.113:8000/play/35/index.m3u8
 
 #EXTINF:-1 tvg-id="tv1000" group-title="Кино и сериалы", Viju TV1000 HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=drVbRyiaEbVJ_ZYOey7AXQ&e=1743575189&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=eq0gNc6asejR_sF0QGqE0g&e=1744649885&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action
 http://api.peers.tv/timeshift/tv1000_action/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDM3NjUzODEsImlhdCI6MTc0MzY3ODk4MSwiY2lkIjo2LCJ1aWQiOjkwNjQ2MTY1MiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.fWy115lIpWn1uYSC1zo1FqEfOtbMF4SujySRXKMGsfA&offset=3
 
 #EXTINF:-1 tvg-id="tv1000-action" group-title="Кино и сериалы",Viju TV1000 Action HD
-https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=AUEALxAtkmYmIibPESjtdw&e=1743575210&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=GAG2UZc7RF8l4mCUVX1yQQ&e=1744649784&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 
 #EXTINF:-1 tvg-id="viju-tv1000-novella" group-title="Кино и сериалы",viju TV1000 Новелла
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=2ZgxAXejNwn3VpWugDjOYA&e=1742618293&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
