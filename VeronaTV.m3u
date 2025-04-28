@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 28.04.2025г 11:50
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 28.04.2025г 19:40
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1676,11 +1676,14 @@ https://bl.rutube.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=Rd
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://t4.ftcdn.net/jpg/00/36/62/11/360_F_36621183_lpTj3uB0rCeS9Ml4VUIKJ5wcnf7qWNY7.jpg" group-title="Кинозалы", Кинолента 24
 https://bl.rutube.ru/livestream/23c568b69e0eada33560850484223739/index.m3u8?s=F7vYXQwkPlk7vzmCDJi1UA&e=1745917429&scheme=https
 
-#EXTINF:-1 tvg-id="Национальный Жилищный Канал" tvg-logo="http://i116.fastpic.org/big/2022/0211/19/817f88ac8e270c0fcd17a45c5e456d19.png" group-title="Кинозалы", Национальный
+#EXTINF:-1 tvg-id="Национальный Жилищный Канал" tvg-logo="http://i116.fastpic.org/big/2022/0211/19/817f88ac8e270c0fcd17a45c5e456d19.png" group-title="Кинозалы", Национальный жилищный канал
 https://bl.rutube.ru/livestream/5f378f373c88dcebd6549bb0c84d623f/index.m3u8?s=e9pjTEM3jsyjo8EWZ3YE8w&e=1745917415&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="https://pic.rutubelist.ru/user/2024-11-28/13/a5/13a5164fd40f43513df172da2ec6dbfd.jpg" group-title="Кинозалы", Твой 2007
 https://bl.rutube.ru/livestream/348ebaac61a382f2028e9a1b06f4f2b6/index.m3u8?s=s8gq4VtafLhFu-RsYUzG-A&e=1745917431&scheme=https
+
+#EXTINF:-1 tvg-id="no_epg_sport" tvg-logo="https://i.pinimg.com/originals/46/ff/af/46ffaf8ae47559a1dc73d0572f482475.jpg" group-title="Кинозалы", Monster Jam TV
+https://bl.rutube.ru/livestream/fd9203319665cd24b42dba17d541fc31/index.m3u8?s=1vCj80dcRnqf5Nsu7CcXJw&e=1745917482&scheme=https
 
 #EXTINF:-1 tvg-id="no_epg_cinema" tvg-logo="http://bezbe.my1.ru/poster/tvplay.png" group-title="Кинозалы", ФАНТАСТИКА HD
 http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
