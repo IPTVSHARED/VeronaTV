@@ -973,6 +973,9 @@ http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIU
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
 http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDczODUxODAsImlhdCI6MTc0NzI5ODc4MCwiY2lkIjo2LCJ1aWQiOjkxNjY2NTY2NiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.--X6yXjQTQ7FSYkE9NDmN18uBoS01S21oftOtM5jsBU&offset=3
 
+#EXTINF:-1 tvg-logo="https://epg.iptvx.one/picons/epic.png" tvg-id="epic" group-title="Познавательные", Ep!c
+http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAiSdRqTHh7wge_d-dow9_pD_1FzFC3QtZtVo94XBiN4aQ&token=dGVzdDU6dGVzdDU=
+
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
 http://194.26.229.4/live/stream5.php?q=SNwjhr-x13MupkMafNzDgnelKEAT0lJ_wDEe0njxAAgBd9DnTi2Px8kZtYlMcNd3qq7L9xvsZsncQ4dXOjKv6g&token=dGVzdDU6dGVzdDU=
 
