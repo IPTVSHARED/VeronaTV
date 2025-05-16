@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 16.05.2025г 10:40
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 16.05.2025г 12:40
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1930,6 +1930,671 @@ https://live-mirror-19.ott.tricolor.tv/dtv/id1018_MSKSG-PVR-1--Kinozal30_HD/02/p
 
 
 
+
+
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Kinozakaz Premiere 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31547.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Кинозал Premiere 1 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11015.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Кинозал Premiere 2 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11016.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Кинозал Premiere 3 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11017.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU СССР HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11026.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Action HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11027.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Catastrophe HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11028.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Cinema HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11029.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Cinema+ HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11030.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Comedy HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11031.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Fantastic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11032.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU FilMystic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11033.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU History HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11034.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Kinorating HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11037.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Marvel HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11038.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Premiere HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11039.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Romantic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11040.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Russian HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11041.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU VHS HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11042.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Media HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11043.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Stars HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11044.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Ultra 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11045.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU RuSerial HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11046.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Сваты HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11047.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Criminal HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11048.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Premiere Ultra 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15023.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Media HD OLD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15024.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Marvel HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15025.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Comedy HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15026.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Reality HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16082.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Reality OLD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16083.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Survival HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17019.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Survival OLD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17020.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Cosmo HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17021.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU TruMotion HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17054.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Romantic OLD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18052.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Russia 90s HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31658.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Multserial HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11025.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Kids HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11035.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы BCU",BCU Kids+ HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11036.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Kids 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17023.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Little HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19425.m3u8
+#EXTINF:-1 group-title="Кинозалы BCU",BCU Charm HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18053.m3u8
+
+#EXTINF:-1 group-title="Кинозалы BOX",BOX СССР 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31625.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Premiere+ 4K HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31549.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Franchise HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19274.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Hybrid HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19275.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Anime HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19276.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Gangster HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19277.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Oscar HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19278.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Memory HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19279.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX M.Serial HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19280.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Serial HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19281.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Game HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19284.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Spy HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19285.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Travel HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19418.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Western HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19419.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Zombie HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19420.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Cyber HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19421.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Ghost HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20154.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Stories HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20155.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Fantasy HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20156.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Premiere 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20157.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20158.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Mayday HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20159.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Apocalypse HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31655.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Remast+ 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31656.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Serial 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31657.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport 4K HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31455.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport Live 4K HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31550.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SR Sport 2 Live 4K HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31551.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 1 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19422.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge Live 2 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19423.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Be On Edge HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19424.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 1 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20166.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 2 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20167.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 3 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20168.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 4 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20169.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 5 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20170.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 6 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31648.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast Live 7 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31649.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX SportCast HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31650.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",Box Hits HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19175.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Music 4K HDR
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19282.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Relax 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19283.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX RU.RAP HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20171.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Metall HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31651.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX History 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31546.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Kosmo 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31548.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="3" group-title="Кинозалы BOX",DocuBox HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/968.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Docu HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20153.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Travel Premiere HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31652.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Gurman HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31653.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX AutoTrend HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31654.m3u8
+#EXTINF:-1 group-title="Кинозалы BOX",BOX Lo-Fi HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31545.m3u8
+
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Top
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11005.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="3" group-title="Кинозалы CineMan",CineMan Premium
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/20112.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Action
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11006.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Thriller
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11007.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Мелодрама
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11008.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Marvel
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11009.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Ужасы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11010.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Комедия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11011.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan VHS
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11012.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan РуКино
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11013.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Сваты
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11014.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Катастрофы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15106.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Ментовские войны
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16063.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan ПёС + Лихач
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16064.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Лесник
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16065.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan MiniSeries
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19437.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Скорая Помощь
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15100.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Симпсоны
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15101.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Криминальные Сериалы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31626.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Комедийные Сериалы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31628.m3u8
+#EXTINF:-1 group-title="Кинозалы CineMan",CineMan Фитнес
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31629.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Cartoons 90
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11001.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Cartoons Short
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11002.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы CineMan",CineMan Cartoons Big
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11003.m3u8
+
+
+#EXTINF:-1 group-title="Кинозалы MM",MM Family Guy HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19414.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM OldSchool HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19413.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM 007 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13009.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Love HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13010.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 1 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13011.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 2 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13012.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm 3 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13013.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM NewFilm RU HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13014.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Rock HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13015.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Tom and Jerry HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13016.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM UFO HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13017.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR 1941-1945 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13018.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Комедия HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13019.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Мультфильм HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13020.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Сказки HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13021.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Драма HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13022.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM World Hits HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13023.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Агата Кристи HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13024.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Грайндхаус HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13025.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Honey HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13026.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик Classic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13027.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Боевик HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13028.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Вестерн HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13029.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Воронины HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13031.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Затмение HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13032.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM История HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13033.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Катастрофа HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13034.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Квартирник HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13035.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Киберпанк HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13036.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия Classic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13037.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Комедия HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13038.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Криминал HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13039.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Крутые 90-е HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13040.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Кунг-Фу HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13041.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Lesson HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13042.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Smile HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13043.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Мифология HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13044.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Нуар HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13045.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком 2.0 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13046.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Погружение HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13047.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Приключения HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13048.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Полицейский с Рублёвки HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13049.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Роскино HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13050.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Сваты HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13051.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Ситком HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13052.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Скорость HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13053.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Спорт HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13054.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Стивен Кинг HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13055.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Супергерои HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13056.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Flip UHD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13057.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Триллер HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13058.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужастик HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13059.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Приключения HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13060.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Синематограф HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13061.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Фантастика HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13062.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Фобия HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13063.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Walt Disney HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13064.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Live Planet HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13095.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM USSR Детектив HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13096.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 1 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13097.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Семейный 2 HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13098.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13099.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Ужасы Classic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14128.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Celebrity HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16084.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Classic HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16085.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Драма HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16086.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Кинофестиваль HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31621.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Relax HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13030.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Микромир HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18193.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Макромир HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18194.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Мегамир HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18195.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Translation HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18196.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Experiment HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19412.m3u8
+#EXTINF:-1 group-title="Кинозалы MM",MM Открытия HD
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19415.m3u8
+
+
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="3" group-title="Кинозалы VF",VF Счастливы Вместе
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/9242.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Бесстыжие
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10075.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Владимир Высоцкий
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10066.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Два с половиной человека
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10062.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Новогодний
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17035.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Ёлки
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14222.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF New Year
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15522.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF С новым годом!
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15524.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Гарри Поттер
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14230.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Секс в большом городе
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14224.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Карточный домик
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14221.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Disney Movie
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15010.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Теория большого взрыва
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15009.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="3" group-title="Кинозалы VF",VF Сериалы Турции
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/9123.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Вестерн
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31553.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Adventure
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10000.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Anime
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10001.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Cartoon
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10002.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Comedy
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10003.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Family
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10004.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Fantasy
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10005.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Melodrama
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10006.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Mystic
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10007.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Ужасы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10008.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF VHS MIX
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10009.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Ужасы VHS
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10010.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Премьера
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10051.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Premiere
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10052.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Классика
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10053.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Classic
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10054.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Комедия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10055.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Катастрофы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10080.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Marvel
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10081.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Военные
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10082.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Наша победа
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10083.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Мосфильм
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10084.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Фильмы СССР
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10085.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Мультфильмы СССР
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10086.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Боевик
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10087.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Кино 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11114.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Сериал 4K
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11115.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF TOP Series
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11116.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Art house
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11119.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Detective
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11120.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Fantastic
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11121.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Оскар
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11122.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Сваты
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13080.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Солдаты
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13081.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Тайны следствия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13082.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Воронины
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13083.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Универ
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13084.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Series
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13085.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF След
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13086.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Сериал
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13087.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Мыльные оперы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13088.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Thriller
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13089.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Индия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13090.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF История
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13091.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Comics
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13092.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Криминал
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13093.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Клиника
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/13094.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Луи де Фюнес
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17000.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Чернобыль
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17001.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF The X-Files
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17002.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Сверхъестественное
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17003.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Леонид Гайдай
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17004.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Американская история ужасов
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17005.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Друзья
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17006.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF СашаТаня
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17008.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Джеки Чан
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17009.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Наша Раша
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17010.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Привет из 90х
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17011.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Эльдар Рязанов
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17012.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Универ новая общага
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17013.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Ходячие мертвецы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17014.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Реальные пацаны
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17015.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Доктор Хаус
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17016.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Без цензуры
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17017.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Городок
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18097.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Comedy Woman
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18101.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Игра престолов
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18119.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Одесская киностудия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18120.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Ленфильм
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18121.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Киностудия им. Горького
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18122.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Рижская киностудия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18123.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Свердловская киностудия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18124.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Беларусьфильм
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18125.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Netflix
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19427.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF HBO
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19428.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Michael Jackson
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31554.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Король и Шут
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31555.m3u8
+#EXTINF:-1 tvg-rec="1" catchup-type="shift" catchup_days="7" group-title="Кинозалы VF",VF Легенды Ретро ФМ
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/10067.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Музыкальный Новый год!
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16140.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Modern Talking
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14004.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Britney Spears
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14005.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Музыка
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15512.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Music
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15516.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Rock
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15517.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Караоке
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15518.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Шансон
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15519.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Музсоюз
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15521.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Metal
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17033.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Rap
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17034.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Хит-парад
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17036.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Русский рок
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17037.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Disney Cartoon
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15027.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Союзмультфильм
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14238.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Ералаш
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14163.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF VHS Cartoon
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11118.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Малыш
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11123.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Мультуб
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15520.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Новогодние мультфильмы
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15523.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Скуби-Ду
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/17007.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Авто
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15511.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Охота
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15513.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Домашний повар
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15514.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Путешествия
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/15515.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Рыбалка
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16138.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Стройка
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16139.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Маски Шоу
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31556.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Каламбур
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31557.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Орел и решка
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/31476.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Концерты
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14159.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF КВН
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14170.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Юмор 18+
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/16137.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Уральские пельмени
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18198.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Кухня
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18199.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Баня
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/18200.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Однажды в России
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/19286.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Граиндхаус
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/14158.m3u8
+#EXTINF:-1 group-title="Кинозалы VF",VF Cartoon 18+
+https://taptv.ru/channel/DG6YJPP0R9FGZN80DX/11117.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild3735-3330-4331-b663-306537353062/-1.svg" group-title="Кинозалы RUTUBE", Comedy Hub
+https://bl.rutube.ru/livestream/dcc02ed1ff97923541c6d4c030c54c65/index.m3u8?s=YW5TO_lryNhcVYuBWSiHig&e=1747429412&scheme=https
+#EXTINF:-1 tvg-logo="https://www.monsterjam.com/wp-content/uploads/2024/07/logo-mj-new.png" group-title="Кинозалы RUTUBE", Monster Jam TV
+https://bl.rutube.ru/livestream/fd9203319665cd24b42dba17d541fc31/index.m3u8?s=gB82_mYUHBfLMn2VKHj8PA&e=1747429434&scheme=https
 
 
 
