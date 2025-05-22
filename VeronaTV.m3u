@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 22.05.2025г 10:50
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 22.05.2025г 12:00
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -419,7 +419,7 @@ https://stream-msk-08.ott.tricolor.tv:443/dtv/id734_MSKSG-PVR-1--Futbolnyy_HD/04
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="football-ru" group-title="Спортивные", Футбол
 http://api.peers.tv/timeshift/futbol_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDc5ODk5ODAsImlhdCI6MTc0NzkwMzU4MCwiY2lkIjo2LCJ1aWQiOjkxODI5NjY2OCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.siTtdT7gmNrCwsgMz1LsJx7SZ8IYELivCL2JarkgTRE&offset=3
 
-#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://iptvx.one/picons/teatr.png" group-title="Развлекательные",Волейбол HD
+#EXTINF:-1 tvg-id="voleybol" tvg-logo="https://epg.iptvx.one/picons/voleybol.png" group-title="Спортивные", Волейбол HD
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/knU5VV0fXYiTy2lP6NoMxw,1747947630/streaming/volleyball/324/1/tracks-v5a1/mono.m3u8
 
