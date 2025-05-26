@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 26.05.2025г 10:00
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 26.05.2025г 12:10
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -320,7 +320,7 @@ https://stream-msk-09.ott.tricolor.tv/dtv/id628_MSKSG-PVR-1--Channel_LIVE1/02/pl
 http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD CEE
-https://tv.movielab.pro/145/video.m3u8?token=68f6aeeddb8e47a71af2150a953230b64af1f352-defe468b91467773982ff0bb463e83ad-1748328719-1748242319
+http://s7.merlive.am/eurosport1/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
 http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
@@ -329,7 +329,7 @@ http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
 http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD
-http://109.70.186.70:9090/udp/239.185.1.15:1234
+http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
 http://185.189.225.157/EuroSport2/index.m3u8
@@ -339,6 +339,9 @@ http://213.91.178.133:8000/play/a04b
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [IT]
 https://32tech0steam0dp01.org/live/IT_Eurosport2FHD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/vansgn.com/brandvale/wp-content/uploads/2011/04/Eurosport+logo+2011+white.png" tvg-id="no_epg_sport" group-title="Спортивные", IDC EuroSport
+http://217.19.214.38:8200/hls/78/live1.m3u8
 
 #EXTINF:-1 tvg-id="start" group-title="Спортивные",Старт HD
 http://stream-msk-13.ott.tricolor.tv/dtv/id625_MSKSG-PVR-1--Start/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0MzIxOTAwOTMzMTI2NyIsImV4cCI6MTc0ODgzNDAzOCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4MjI5MjM4LCJzZXNzaW9uX2lkIjoiMTA3OGE4OWRiOTJlODE4MmIyOTY1NjExZTIzZWUwZGUiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.d-WwVXBEyZRxj7GtFXpjCnBDFrXV0xaqNsTPfV0RvmM
@@ -413,6 +416,9 @@ https://tv.movielab.pro/943/video.m3u8?token=afbe38e16b98ab9bf0e61bcb1a479b4df9c
 
 #EXTINF:-1 tvg-id="setanta-kz" group-title="Спортивные", Setanta Казахстан
 https://tv.movielab.pro/5094/video.m3u8?token=c0ce05557e2bd281dfede1db2eb492dedef1ae80-cca37704871df3bdbe99e0fa4bbca912-1748328719-1748242319
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-mpic/4904013/img_id1736141387086004860.png/orig" tvg-id="no_epg_sport" group-title="Спортивные", IDC Random
+http://217.19.214.38:8200/hls/77/live1.m3u8
 
 #EXTINF:-1 tvg-id="viasat-sport" group-title="Спортивные",Viju+ Sport HD
 http://api.peers.tv/timeshift/viasat_sport_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
@@ -948,27 +954,24 @@ https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1768.m3u8
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Investigation Discovery EU
 https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1778.m3u8
 
+#EXTINF:-1 tvg-id="history" group-title="Познавательные", History
+http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
+
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
-http://ost.fox-tv.fun/tM3U4P3Rva2VuPVtzdGJfdG9rZW5dIiwiYSI6Imh0dHA6Ly9zdHI5Lm94dHZlLmxpdmU6OTk4Ni9oaXN0b3J5aGQvdmlkZW8tdGltZXNoaWZ0X2Ficy1bdGltZV9zdGFydF0ubTN1OD90b2tlbj1bc3RiX3Rva2VuXVtjdXJyX3RpbWVdIiwibCI6IjA2ZDUyMGNlIiwicCI6IjA2ZDUyMGNlZTM1ZWE1Y2YiLCJjIjoiMTgyIiwidCI6IjNkZmRmMzk1NTdjN2RhNjdiMmZhZTdmYWM0NWJjYjM2IiwiZCI6IjM4NDU1IiwiciI6IjEzODU2OCIsIm0iOiJ0diJ9eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2hpc3RvcnloZC9pbmRleC5/index.m3u8
+https://view.my-tv.biz/tv/30513613ac/90ccd64974/video.m3u8
 
 #EXTINF:-1 tvg-id="h2" group-title="Познавательные", History2 HD
-http://ost.fox-tv.fun/0b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyOS5veHR2ZS5saXZlOjk5ODYvaDJoZC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiMDZkNTIwY2UiLCJwIjoiMDZkNTIwY2VlMzVlYTVjZiIsImMiOiIyMzIiLCJ0IjoiM2RmZGYzOTU1N2M3ZGE2N2IyZmFlN2ZhYzQ1YmNiMzYiLCJkIjoiMzg0NTUiLCJyIjoiMTM4NTY4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL2gyaGQvaW5kZXgubTN1OD9/index.m3u8
+https://taptv.ru/channel/G6B09HYE43K4LIK3AK/1886.m3u8
 
 #EXTINF:-1 tvg-id="perpetmobile" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=SmartTV
 https://mhd128.iptv2022.com/p/-0CAiX-Ciuh0Z926NaNlyA,1748293210/streaming/pmobile/324/1/index.m3u8
-
-#EXTINF:-1 group-title="Познавательные", HGTV
-http://ost.fox-tv.fun/1OD90b2tlbj1bc3RiX3Rva2VuXSIsImEiOiJodHRwOi8vc3RyOS5veHR2ZS5saXZlOjk5ODYvSEdUVl9IRC92aWRlby10aW1lc2hpZnRfYWJzLVt0aW1lX3N0YXJ0XS5tM3U4P3Rva2VuPVtzdGJfdG9rZW5dW2N1cnJfdGltZV0iLCJsIjoiMDZkNTIwY2UiLCJwIjoiMDZkNTIwY2VlMzVlYTVjZiIsImMiOiI2MDciLCJ0IjoiM2RmZGYzOTU1N2M3ZGE2N2IyZmFlN2ZhYzQ1YmNiMzYiLCJkIjoiMzg0NTUiLCJyIjoiMTM4NTY4IiwibSI6InR2In0eyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL0hHVFZfSEQvaW5kZXgubTN/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="the-explorers" group-title="Познавательные", The Explorers HD
 http://api.peers.tv/timeshift/the_explorers/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="docubox-hd" group-title="Познавательные", DocuBox HD
 http://api.peers.tv/timeshift/docubox_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDgzMzE5ODAsImlhdCI6MTc0ODI0NTU4MCwiY2lkIjo2LCJ1aWQiOjkxOTMwNjgyMiwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.aWl1aCCqGGstF9eTuckXNw6fSaqttrCjH3kEXmAaRn0&offset=3
-
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Познавательные", TLC HD
-http://ost.fox-tv.fun/_dG9rZW49W3N0Yl90b2tlbl0iLCJhIjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo5OTgxL3RsY2hkL3ZpZGVvLXRpbWVzaGlmdF9hYnMtW3RpbWVfc3RhcnRdLm0zdTg_dG9rZW49W3N0Yl90b2tlbl1bY3Vycl90aW1lXSIsImwiOiIwNmQ1MjBjZSIsInAiOiIwNmQ1MjBjZWUzNWVhNWNmIiwiYyI6IjE3MyIsInQiOiIzZGZkZjM5NTU3YzdkYTY3YjJmYWU3ZmFjNDViY2IzNiIsImQiOiIzODQ1NSIsInIiOiIxMzg1NjgiLCJtIjoidHYifQeyJ1IjoiaHR0cDovL3N0cjkub3h0dmUubGl2ZTo4MDgwL3RsY2hkL2luZGV4Lm0zdTg/index.m3u8
 
 #EXTINF:-1 tvg-id="tlc" tvg-logo="https://epg.iptvx.one/picons/tlc.png" group-title="Познавательные", TLC Россия HD
 http://s7.merlive.am/tlc/index.m3u8
