@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 02.06.2025г 08:45
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 02.06.2025г 12:40
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -327,13 +327,13 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id633_MSKSG-PVR-1--Channel_LIVE5/03/pls
 http://178.212.71.253:8000/play/143/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD
-http://109.248.236.51/eurosport1/tracks-v1a1/mono.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/176.m3u8
 
 #EXTINF:-1 tvg-id="eurosport1" group-title="Спортивные", Eurosport 1 HD 🇪🇸
 http://185.189.225.157/EuroSport1/index.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2
-http://109.248.236.51/eurosport2/tracks-v1a1/mono.m3u8
+http://tinyurl.com/%74%76%7A%61%74%61%6B21/192.m3u8
 
 #EXTINF:-1 tvg-id="eurosport2" group-title="Спортивные", Eurosport 2 HD [ES]
 http://185.189.225.157/EuroSport2/index.m3u8
@@ -358,9 +358,6 @@ http://stream-msk-05.ott.tricolor.tv/dtv/id686_MSKSG-PVR-1--Tonus/03/plst.m3u8?d
 
 #EXTINF:-1 group-title="Спортивные",Russian Extreme HD
 http://stream-msk-06.ott.tricolor.tv/dtv/id294_MSKSG-PVR-1--HD_Russkiy_Extreme/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
-
-#EXTINF:-1 tvg-id="kazsport" group-title="Спортивные",QazSport
-http://109.248.236.51/qazsport_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="match-tv" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}" tvg-logo="http://domnet.me/images/picons/tvico_n52.png" group-title="Спортивные",Матч! ТВ
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -388,9 +385,6 @@ http://109.200.130.123:7534/play/a00i
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-igra" group-title="Спортивные", Матч! Игра
 http://api.peers.tv/timeshift/sport_2/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
-
-#EXTINF:-1 tvg-id="match-planeta" group-title="Спортивные", Матч! Планета
-http://109.248.236.51/match_planeta/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="match-nash-sport" group-title="Спортивные", Матч! Страна
 http://api.peers.tv/timeshift/match_nash_sport/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
@@ -931,23 +925,14 @@ http://api.peers.tv/timeshift/galaxy_tv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1N
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild
 http://135.181.115.81:8000/play/a03v/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild HD
-http://vipl.one/hls/cf4wbak7ur5s/308.m3u8
-
 #EXTINF:-1 tvg-id="nat-geo-wild" group-title="Познавательные", Nat Geo Wild СНГ HD
 http://78.130.250.2:8023/play/a02c/index.m3u8
 
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic
 http://135.181.115.81:8000/play/a03w/index.m3u8?token=livetv
 
-#EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic CEE
-http://vipl.one/hls/cf4wbak7ur5s/310.m3u8
-
 #EXTINF:-1 tvg-id="national-geographic" group-title="Познавательные", National Geographic HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/116.m3u8
-
-#EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery Channel
-http://vipl.one/hls/cf4wbak7ur5s/300.m3u8
 
 #EXTINF:-1 tvg-id="discovery-channel" group-title="Познавательные", Discovery HD
 http://65.21.85.175:8000/play/a02u/index.m3u8?token=livetv
@@ -958,26 +943,14 @@ http://tinyurl.com/%74%76%7A%61%74%61%6B21/177.m3u8?bw9412419727452
 #EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", ID Xtra EU
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/205.m3u8
 
-#EXTINF:-1 tvg-id="id-xtra-eu" group-title="Познавательные", Investigation Discovery
-http://vipl.one/hls/cf4wbak7ur5s/306.m3u8
-
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History
 http://65.21.85.175:8000/play/a01s/index.m3u8?token=livetv
-
-#EXTINF:-1 tvg-id="history" group-title="Познавательные", History CEE
-http://vipl.one/hls/cf4wbak7ur5s/443.m3u8
 
 #EXTINF:-1 tvg-id="history" group-title="Познавательные", History HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/113.m3u8
 
-#EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC
-http://vipl.one/hls/cf4wbak7ur5s/2138.m3u8
-
 #EXTINF:-1 tvg-id="tlc" group-title="Познавательные", TLC HD
 http://tinyurl.com/%74%76%7A%61%74%61%6B21/168.m3u8
-
-#EXTINF:-1 tvg-id="hgtv" group-title="Познавательные", HGTV
-http://vipl.one/hls/cf4wbak7ur5s/1033.m3u8
 
 #EXTINF:-1 tvg-id="perpetmobile" tvg-logo="https://iptvx.one/picons/voprosy-i-otvety.png" group-title="Познавательные", Перпетуум Мобиле
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1315,7 +1288,7 @@ http://api.peers.tv/timeshift/set/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR
 http://api.peers.tv/timeshift/sonyscifi/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 tvg-id="tvxxi" group-title="Кино и сериалы", TV21
-http://109.248.236.51/tvxxi/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/TV21
 
 #EXTINF:-1 tvg-id="start-air" group-title="Кино и сериалы",Start Air HD
 #EXTVLCOPT:http-user-agent=SmartTV
@@ -1475,58 +1448,52 @@ http://stream-msk-06.ott.tricolor.tv/dtv/id669_MSKSG-PVR-1--Flix_Snip/03/plst.m3
 http://api.peers.tv/timeshift/favmovie/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинопремьера
-http://109.248.236.51/kinopremiera_hd/tracks-v1a1/mono.m3u8
+http://tvip.btk.teleos.ru:8081/chid518/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинопремьера HD
 http://api.peers.tv/timeshift/premera/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Кинохит
-http://109.248.236.51/kinohit/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/KinoxitHD/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Кинохит HD
 http://api.peers.tv/timeshift/kinohit/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Киносемья
-http://109.248.236.51/ID/tracks-v1a1/mono.m3u8
+http://tvip.btk.teleos.ru:8081/chid517/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киносемья HD
 http://api.peers.tv/timeshift/hd_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы", Киносвидание
-http://109.248.236.51/kinosvidanie/tracks-v1a1/mono.m3u8
+http://tvip.btk.teleos.ru:8081/chid521/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносвидание HD
 http://api.peers.tv/timeshift/kinoklub/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 group-title="Кино и сериалы",Киномикс
-http://109.248.236.51/kinomix/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/kinomix/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Киномикс HD
 http://api.peers.tv/timeshift/ntv_kino_plyus/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
-#EXTINF:-1 group-title="Кино и сериалы", Киносерия
-http://109.248.236.51/kinoseria/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Киносерия HD
 http://api.peers.tv/timeshift/kinoseriya/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
+
+#EXTINF:-1 tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужас
+http://109.200.130.123:7537/play/a031
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="kinouzhas" group-title="Кино и сериалы", Киноужас HD
 http://api.peers.tv/timeshift/kinouzhas/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
-#EXTINF:-1 tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино
-http://109.248.236.51/nashe_novoe_kino/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="nashe-novoe-kino" group-title="Кино и сериалы",Наше новое кино HD
 http://api.peers.tv/timeshift/nashe_novoe_kino/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
-
-#EXTINF:-1 group-title="Кино и сериалы",Кинокомедия
-http://109.248.236.51/kinokomedia/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы",Кинокомедия HD
 http://api.peers.tv/timeshift/comedytv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино
-http://109.248.236.51/indiyskoe_kino/mono.m3u8
+http://188.113.190.12/329/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" tvg-id="indiyskoe-kino" group-title="Кино и сериалы", Индийское кино HD
 http://api.peers.tv/timeshift/indiatv/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
@@ -1559,7 +1526,7 @@ https://mhd128.iptv2022.com/p/Yx2GY8KD8YQbPPhTAC3ZZw,1748898007/streaming/shottv
 http://tvoetv.space:8080/tvoetv/index.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood
-http://31.173.165.29:8000/play/a055/index.m3u8
+http://109.200.130.123:7537/play/a03g
 
 #EXTINF:-1 group-title="Кино и сериалы",Hollywood HD
 http://92.242.110.52:9835/udp/238.1.3.3:1234
@@ -1568,13 +1535,10 @@ http://92.242.110.52:9835/udp/238.1.3.3:1234
 http://stream-msk-06.ott.tricolor.tv/dtv/id423_MSKSG-PVR-1--Cinema/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
 
 #EXTINF:-1 tvg-id="domkino" group-title="Кино и сериалы", Дом кино
-http://109.248.236.51/dom_kino/tracks-v1a1/mono.m3u8
+https://streaming.thestream.cyou/live/44-req_offset_28000000-req_window_0-1k_v5.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы",Дом Кино
 http://stream-msk-13.ott.tricolor.tv/dtv/id176_MSKSG-PVR-1--D_Kino/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
-
-#EXTINF:-1 tvg-id="domkino-premium" group-title="Кино и сериалы", Дом Кино Премиум
-http://109.248.236.51/dom_kino_premium/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Кино и сериалы", Дом Кино Премиум HD
 http://stream-msk-08.ott.tricolor.tv/dtv/id396_MSKSG-PVR-1--HD_Dom_Kino_premium/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
@@ -1589,13 +1553,13 @@ http://stream-msk-04.ott.tricolor.tv/dtv/id517_MSKSG-PVR-1--Rus_Bests/03/plst.m3
 http://stream-msk-05.ott.tricolor.tv/dtv/id818_MSKSG-PVR-1--Ruskiy_roman_HD/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
 
 #EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион
-http://109.248.236.51/russkiy_illusion/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Кино и сериалы", Иллюзион +
 http://api.peers.tv/timeshift/illyuzion/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция
-http://109.248.236.51/mosfilm/tracks-v1a1/mono.m3u8
+http://178.212.71.253:8000/play/124/index.m3u8
 
 #EXTINF:-1 tvg-id="mosfilm" tvg-logo="https://iptvx.one/picons/mosfilm.png" group-title="Кино и сериалы", Мосфильм. Золотая коллекция HD
 http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Mosfilm_HD.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
@@ -1970,6 +1934,187 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 #EXTINF:-1 tvg-logo="https://cdn.nur.kz/images/1120x630/pogudx2cojg2jtu6kg.jpeg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Агент национальной безопасности
+http://cdn2.starcinemax.fun:2095/3038/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Академия Амбрелла
+http://cdn2.starcinemax.fun:2095/3000/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Байки Митяя
+http://cdn1.starcinemax.fun:2095/0145/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Байки из склепа
+http://cdn1.starcinemax.fun:2095/0350/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Баффи истреб. вампиров
+http://cdn1.starcinemax.fun:2095/0351/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Беверли-Хиллз 90210
+http://cdn1.starcinemax.fun:2095/0352/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Бедная Настя
+http://cdn1.starcinemax.fun:2095/0353/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Боец
+http://cdn1.starcinemax.fun:2095/0438/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Боишься ли ты темноты?
+http://cdn2.starcinemax.fun:2095/3053/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Бригада
+http://cdn2.starcinemax.fun:2095/0917/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Великолепный век
+http://cdn1.starcinemax.fun:2095/0355/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Во все тяжкие
+http://cdn1.starcinemax.fun:2095/0356/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Вовочка
+http://cdn1.starcinemax.fun:2095/0436/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Военные сериалы
+http://cdn1.starcinemax.fun:2095/0405/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Возвращение в Эдем
+http://cdn1.starcinemax.fun:2095/0430/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Воронины
+http://cdn1.starcinemax.fun:2095/0121/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Восьмидесятые
+http://cdn1.starcinemax.fun:2095/0402/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Гром в раю
+http://cdn1.starcinemax.fun:2095/0431/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Да Лунный свет
+http://cdn1.starcinemax.fun:2095/0358/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дальнобойщики
+http://cdn2.starcinemax.fun:2095/0705/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Девушки с Макаровым
+http://cdn1.starcinemax.fun:2095/0391/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дежурная аптека
+http://cdn1.starcinemax.fun:2095/0357/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Доктор Куин: Женщина-врач
+http://cdn2.starcinemax.fun:2095/3043/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Доктор хаус
+http://cdn2.starcinemax.fun:2095/0648/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Дрейк и Джош
+http://cdn2.starcinemax.fun:2095/0973/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Друзья
+http://cdn1.starcinemax.fun:2095/0372/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ее звали Никита
+http://cdn1.starcinemax.fun:2095/0360/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Женаты и с детьми
+http://cdn1.starcinemax.fun:2095/0432/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Жуки
+http://cdn2.starcinemax.fun:2095/3061/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звездный путь Вояджер
+http://cdn2.starcinemax.fun:2095/09212/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звездный путь
+http://cdn2.starcinemax.fun:2095/09211/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Звёздные врата: Атлантида
+http://cdn1.starcinemax.fun:2095/0407/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Зена
+http://cdn1.starcinemax.fun:2095/0361/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Зона. Тюремный роман
+http://cdn1.starcinemax.fun:2095/0452/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ивановы-Ивановы
+http://cdn1.starcinemax.fun:2095/0118/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Игра престолов
+http://cdn1.starcinemax.fun:2095/0059/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Интерны
+http://cdn2.starcinemax.fun:2095/3037/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ищейка
+http://cdn1.starcinemax.fun:2095/0390/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Каменская
+http://cdn1.starcinemax.fun:2095/0320/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Клан Сопрано
+http://cdn2.starcinemax.fun:2095/3001/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Клиника
+http://cdn1.starcinemax.fun:2095/0401/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Коломбо
+http://cdn2.starcinemax.fun:2095/0813/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Крутой Уокер
+http://cdn1.starcinemax.fun:2095/0362/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Кухня
+http://cdn1.starcinemax.fun:2095/0371/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Любовь на районе
+http://cdn1.starcinemax.fun:2095/0313/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мажор
+http://cdn1.starcinemax.fun:2095/0363/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ментовские войны
+http://cdn2.starcinemax.fun:2095/0467/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Метод Фрейда
+http://cdn1.starcinemax.fun:2095/0364/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Милиционер с Рублёвки
+http://cdn1.starcinemax.fun:2095/0392/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мир! Дружба! Жвачка!
+http://cdn2.starcinemax.fun:2095/0927/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мисс Марпл Агаты Кристи
+http://cdn1.starcinemax.fun:2095/0386/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мистер Робот
+http://cdn2.starcinemax.fun:2095/3002/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Молодёжка
+http://cdn1.starcinemax.fun:2095/0387/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мосгаз
+http://cdn2.starcinemax.fun:2095/0931/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Мылодрама
+http://cdn2.starcinemax.fun:2095/0929/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Наследники
+http://cdn2.starcinemax.fun:2095/3004/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Не родись красивой
+http://cdn2.starcinemax.fun:2095/0710/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Ольга HD
+http://cdn1.starcinemax.fun:2095/0412/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Она написала убийство
+http://cdn2.starcinemax.fun:2095/3052/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Папины дочки
+http://cdn1.starcinemax.fun:2095/0335/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Пес
+http://cdn1.starcinemax.fun:2095/0400/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",По законам военного времени
+http://cdn1.starcinemax.fun:2095/0101/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Полицейский с Рублевки
+http://cdn2.starcinemax.fun:2095/3039/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Полтергейст: Наследие
+http://cdn2.starcinemax.fun:2095/3055/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Последний из Магикян
+http://cdn1.starcinemax.fun:2095/0441/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Прапорщик Шматко или Ё-моё
+http://cdn1.starcinemax.fun:2095/0437/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сваты
+http://cdn2.starcinemax.fun:2095/3040/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сверхъестественное
+http://cdn1.starcinemax.fun:2095/0147/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Семья
+http://cdn1.starcinemax.fun:2095/0316/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",СеняФедя
+http://cdn1.starcinemax.fun:2095/0385/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сериал крот
+http://cdn2.starcinemax.fun:2095/0645/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Склифасовский
+http://cdn1.starcinemax.fun:2095/0367/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Служба 911
+http://cdn1.starcinemax.fun:2095/0366/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Солдаты
+http://cdn1.starcinemax.fun:2095/0125/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Соледад
+http://cdn2.starcinemax.fun:2095/7033/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Спрут
+http://cdn1.starcinemax.fun:2095/0435/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Старый Универ
+http://cdn2.starcinemax.fun:2095/0928/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Сумеречная зона
+http://cdn2.starcinemax.fun:2095/3057/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Счастливы вместе
+http://cdn1.starcinemax.fun:2095/0306/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",ТНТ премьер
+http://cdn2.starcinemax.fun:2095/30000/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Твин Пикс
+http://cdn2.starcinemax.fun:2095/0821/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Теория большого взрыва
+http://cdn1.starcinemax.fun:2095/0368/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Тюрьма Оз
+http://cdn2.starcinemax.fun:2095/3054/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Убойная сила
+http://cdn2.starcinemax.fun:2095/0717/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Улицы разбитых фонарей
+http://cdn2.starcinemax.fun:2095/0930/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Физрук
+http://cdn2.starcinemax.fun:2095/0731/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",ЧОП
+http://cdn2.starcinemax.fun:2095/1400/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Чернобль
+http://cdn1.starcinemax.fun:2095/0047/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Чужой район
+http://cdn1.starcinemax.fun:2095/0417/index.m3u8?token=137946825
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/1600px-Cinemax_2016.svg.png" tvg-id="no_epg_cinema" group-title="StarCineMax [тест]",Элен и ребята
+http://cdn1.starcinemax.fun:2095/0373/index.m3u8?token=137946825
+
 
 
 
@@ -2323,10 +2468,10 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
 https://stream-msk-20.ott.tricolor.tv/dtv/id975_MSKSG-PVR-1--2x2/02/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
 
 #EXTINF:-1 tvg-id="da-vinci" group-title="Детские", Да Винчи
-http://109.248.236.51/da_vinci/tracks-v1a1/mono.m3u8
+http://45.143.108.110:2200/davinci
 
 #EXTINF:-1 group-title="Детские",Мультиландия
-http://109.248.236.51/multilandia/tracks-v1a1/mono.m3u8
+http://217.11.177.55/streams/media/multilandiya_720x576/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские", Лёва
 http://api.peers.tv/timeshift/lyova/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
@@ -2345,7 +2490,7 @@ http://api.peers.tv/timeshift/sts_kids_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI
 https://livetv.mylifeisgood.net.ru/channels/babytime.m3u8
 
 #EXTINF:-1 group-title="Детские", В гостях у сказки
-http://109.248.236.51/v_gostyah_u_skazki/tracks-v1a1/mono.m3u8
+http://109.200.130.123:7537/play/a03m
 
 #EXTINF:-1 group-title="Детские", Мульт
 http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
@@ -2354,7 +2499,7 @@ http://stv.mediacdn.ru/live/cdn/mult/playlist_sdhigh.m3u8
 http://stv.mediacdn.ru/live/cdn/mult/playlist_hdhigh.m3u8
 
 #EXTINF:-1 group-title="Детские",О!
-http://109.248.236.51/o/tracks-v1a1/mono.m3u8
+http://178.217.72.66:8080/O/index.m3u8
 
 #EXTINF:-1 catchup="append" catchup-days="7" catchup-source="&offset=${offset}" group-title="Детские",Уникум
 http://api.peers.tv/timeshift/forkids/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDg5Mjk1ODAsImlhdCI6MTc0ODg0MzE4MCwiY2lkIjo2LCJ1aWQiOjkyMTA5NDAwMSwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.hBlouSXbViIRlUea6JPa7Ejj3kxR5GeaY1U5YsYUPrQ&offset=3
@@ -2378,7 +2523,7 @@ http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
 
 #EXTINF:-1 group-title="Детские", TiJi
-http://109.248.236.51/tiji/tracks-v1a1/mono.m3u8
+http://s1.merlive.am/tiji/index.m3u8
 
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
