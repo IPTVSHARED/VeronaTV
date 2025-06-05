@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 05.06.2025г 09:40
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 05.06.2025г 11:55
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -2766,16 +2766,22 @@ http://hls.peers.tv/streaming/cartoon_season/16/vh1w/playlist.m3u8?token=eyJhbGc
 http://api.peers.tv/timeshift/gulli_girl/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NDkxOTIzODAsImlhdCI6MTc0OTEwNTk4MCwiY2lkIjo2LCJ1aWQiOjkyMTc2MjE1MCwicmVnIjpmYWxzZSwiaXAiOjE1NTE3MDQzNTYsImFkdWx0IjpmYWxzZX0.XXoeU0fXpxgNEc8DXv6-fcI1c1A-IwVO9MPpKVYsUE0&offset=3
 
 #EXTINF:-1 tvg-id="cartoon-network" group-title="Детские",Cartoon Network
-http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv
+http://217.113.25.29:8001/play/a02i/index.m3u8
 
 #EXTINF:-1 tvg-id="boomerang" group-title="Детские",Cartoonito
 http://135.181.115.81:8000/play/a04e/index.m3u8?token=livetv
 
 #EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon
-http://135.181.115.81:8000/play/a03x/index.m3u8?token=livetv
+http://195.245.99.242/Nickelodeon/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon SD
+http://217.113.25.29:8001/play/a02j/index.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-ru" group-title="Детские", Nickelodeon HD
+http://178.134.1.158:8081/nickelodeon/index.m3u8
 
 #EXTINF:-1 group-title="Детские", TiJi
-http://s1.merlive.am/tiji/index.m3u8
+http://195.245.99.242/Tiji/playlist.m3u8
 
 #EXTINF:-1 group-title="Детские",СуперГерои
 http://178.124.179.122:8088/Malish/index.m3u8
@@ -2972,8 +2978,11 @@ https://stream-msk-10.ott.tricolor.tv/dtv/id384_MSKSG-PVR-1--T_r_strana_fm/04/pl
 #EXTINF:-1 tvg-id="no_epg_music" tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Музыкальные",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:-1 tvg-id="mtv-rocks" group-title="Музыкальные", MTV 90s
-http://146.59.85.40:89/MTV90s/mpegts
+#EXTINF:-1 tvg-id="mtv-80s-uk" group-title="Музыкальные", MTV 80s
+http://213.169.39.30:5137
+
+#EXTINF:-1 tvg-id="mtv90s-uk" group-title="Музыкальные", MTV 90s
+http://213.169.39.30:5203
 
 #EXTINF:-1 tvg-id="mtv-europe" group-title="Музыкальные", MTV Europe
 http://fl5.moveonjoy.com/MTV/index.m3u8
