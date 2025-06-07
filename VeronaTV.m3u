@@ -1,6 +1,14 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
 
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 07.06.2025г 11:00
+#EXTM3U x-tvg-url="https://iptvx.one/epg/epg_lite.xml.gz; http://gabbarit.drm-play.com/epg_1.xml.gz"
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo2.jpg" group-title="ИНФО", HTTPS://T.ME/IPTVSHARED
+https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
+https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
+
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 07.06.2025г 13:50
 #EXTVLCOPT:http-user-agent=SmartTV
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1940,6 +1948,113 @@ https://live-mirror-20.ott.tricolor.tv/dtv/id1038_MSKSG-PVR-1--Kinozal_32/03/pls
 
 #EXTINF:-1 tvg-logo="https://cdn.nur.kz/images/1120x630/pogudx2cojg2jtu6kg.jpeg" tvg-id="no_epg_cinema" group-title="Кинозалы 2", ВОСТОК-ЗАПАД
 https://live-mirror-18.ott.tricolor.tv/dtv/id1035_MSKSG-PVR-1--Kinozal_33/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI0NjIxOTAwODc5MTcyMCIsImV4cCI6MTc0OTQ0NDE1MCwiaHdpZCI6IjYwZmI5ZjQ2OTVjNWEzMTc4Mjc5ZmUyNzY3YTQxMzE4ODMwNTYwZjJiMTc4ODQ2ZmQ4NjAzNmQxMzMzMTdjYWYiLCJsYXN0X3JlcV9kYXRlIjoxNzQ4ODM5MzUwLCJzZXNzaW9uX2lkIjoiZTIwNjRlOWRlNDFjNTI1NzEyZGQ5ZjM1NzYxZTM1M2EiLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.1fM0XAAaswJUV3EvJnrouY6RkkLX08lC8qeP-otRmaY
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="DITV Карпов" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JACtdFPshJcMTw9UBVeGFUCY2bQu8s28Odkz2ybyItuNgITswaifuvXmpHvBLzWvWg.jpg" group-title="Кинозалы DITV",DITV Карпов
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/861.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Лихач" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JGYHJMt-nk5v7f8oWU6fX2PsbM_VjrEWdVQCwhlh3-m9a5iMOgKN1RSIh1xgB_ldgA.jpg" group-title="Кинозалы DITV",DITV Лихач
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/862.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ФИЛЬМЫ" tvg-logo="http://ditv.ydns.eu:80/images/UaT5hRHSnFj8BKRbTI9mR_i9UW4x6pkx8_2rdGWfMFM79MRjReO0fphdBB8asdxOP6nZkFCg4WroscRWuVrXrEH_W4fTYxv25rSCND8gfeFqhA_PijrPtOufksQFQ94X52H9Idk5EObW0HvJDQ5cpg.png" group-title="Кинозалы DITV",DITV ФИЛЬМЫ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/863.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV комедийные сериалы" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/10118391/pub_64c048f3de44a606deb553fc_64c0495c9bb1804a3877a5f8/scale_1200" group-title="Кинозалы DITV",DITV комедийные сериалы
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/864.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Куба" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIAKMsdSBjdbKcQ4IqdJ6__xhQFZQ_nCJgAizahpAmJRu5DDKPb5u93Ozz3lYsNTuQ.jpg" group-title="Кинозалы DITV",DITV Куба
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/865.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Глухарь" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JB96elnoTnhcWsSjw0M4EjLDxv1jvV6OPT9Xsfo1vXFf3RHfvKwP8u5LCU9K2S_eCw.jpg" group-title="Кинозалы DITV",DITV Глухарь
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/866.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Walt Disney" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JE8j0ZApzAbiDJmzrdRYA8JbKjtoV6D98MyjxgdAN4_Oky_HJyuV874b2juMJBZ_tw.jpg" group-title="Кинозалы DITV",DITV Walt Disney
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/867.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Concert" tvg-logo="https://sun9-30.userapi.com/impf/0wIaAHlNZlOrKYJEzxcpIz1fjdzV5wdQS60lzw/Fh-OPva0ER4.jpg?size=604x483&quality=96&sign=12f901030c11914b3b7ed237f09b7b22&c_uniq_tag=N5rsQ2eHbAM7AZeQMoJrT-rbyhvj6gosg6PU6m7b0Tc&type=album" group-title="Кинозалы DITV",DITV Concert
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/868.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Пёс" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JHRADNvTXMUcoaR9YRUBMeIAM9TPIMxcQNUjehDM3Al8ovNIZfefeeDWW29ycy0JgA.jpg" group-title="Кинозалы DITV",DITV Пёс
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/869.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК" tvg-logo="http://ditv.ydns.eu:80/images/Kcyd-1Z6Tx9EJEnJYIXqhQGIsCyqszrnEDMe-RFabxMWvGMvEtMoMDLL3_XDDDzg2kEC-28oakKahWEUWHrT6a-ovFtuOrUHaoWbvU390jXcQrhLZAyEm75uN8bAWtGF.jpg" group-title="Кинозалы DITV",DITV СБОРНИК МУЛЬТФИЛЬМОВ СКАЗОК
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/871.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Агент национальной безопасности" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JPJ8Wqr48kYuQDLdxWfA_DC-YIk8rfv1ckUamfC3L0pg7K0k6I2HE-39kO1lGo7byQ.jpg" group-title="Кинозалы DITV",DITV Агент национальной безопасности
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/872.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Пятницкий" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JIeh731-VRUf3_ppYBv6PDDw9U_f6qRXrxknK8rqLWPMtvt9ih3GvZO-BaKChzJMvg.jpg" group-title="Кинозалы DITV",DITV Пятницкий
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/873.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Game of Thrones" tvg-logo="https://www.thesun.co.uk/wp-content/uploads/2023/04/RM-game-of-thrones-logo-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1" group-title="Кинозалы DITV",DITV Game of Thrones
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/874.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Счастливы вместе" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JBd9mPJfRTSaAUY07M1NPQJVKrAkjFjR17gjQr7APd8PHCyD-7xhGfrM5fRTKmle6Q.jpg" group-title="Кинозалы DITV",DITV Счастливы вместе
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/875.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КЛАССИКА ИНДИЙСКОГО КИНО" tvg-logo="http://ditv.ydns.eu:80/images/bIP0OC21Gw07mKv8xj8PjuoypbK3bhaV2MvTL0dmLe9yFXXqaPlJlzLWnPXJDV7aJ4Ym_aco9CNvk-adqAtTaa159ObmxgsAQfVYsVcJVDU.jpg" group-title="Кинозалы DITV",DITV КЛАССИКА ИНДИЙСКОГО КИНО
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/876.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ПАТРИОТ" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JLjOh5zqXeBU-ka9NVMxpo7D5fQkeehZYuXuGM3kiB0PLGMyPrczot945CJV_ShPkg.jpg" group-title="Кинозалы DITV",DITV ПАТРИОТ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/877.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV VHS" tvg-logo="http://ditv.ydns.eu:80/images/-7oKEATgI6CdWxwKW-B7i3SWzZD77YXJ0zs8zDo6joi15Ma5fowm1Ymlkb4eRsNpKRlGSRYrK0EwmOmPkryKadHS7hQRugHJwDNcv2DlxfM.png" group-title="Кинозалы DITV",DITV VHS
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/878.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Зачарованные" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JGBsDwAZiERkI9d3pVTm6uv4d31nSSO5XrNyU8NQdyQpsEXfK3mC4p22VFALE4xjyg.jpg" group-title="Кинозалы DITV",DITV Зачарованные
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/879.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ВОРОНИНЫ" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JNZhpaN3QG0STgGzLPYbkC_ngCVL_O6oVvDZdlh-QSwMoueQvqHrmIhOe9ONwWBegA.jpg" group-title="Кинозалы DITV",DITV ВОРОНИНЫ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/880.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КОМЕДИИ СССР" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JPzmy1ennQOmlrXW9Rt11-BaH9wZhYOlmlQpFMf7vCa8rktKBdk6pDE2dhTyM3XfuA.jpg" group-title="Кинозалы DITV",DITV КОМЕДИИ СССР
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/881.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV МАСКИ ШОУ" tvg-logo="https://avatars.mds.yandex.net/i?id=3a1e53fe90a4f4845d60d7a908cf88ff_l-5233431-images-thumbs&n=13" group-title="Кинозалы DITV",DITV МАСКИ ШОУ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/882.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КЛИПЫ 90х" tvg-logo="http://ditv.ydns.eu:80/images/w9luVN8WNG2dYvzBrtWJMg-aPX-qzvg-NkfCk43turscQC3OeQEMZcT-KT_LT-vnAlndhg0ivS9N7mOWIqSP4K6sn8wBwly_sZed09TeH40Ra-kXP9SsIUfaBWPtsCUS.jpeg" group-title="Кинозалы DITV",DITV КЛИПЫ 90х
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/883.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КОМЕДИИ 90-х" tvg-logo="http://ditv.ydns.eu:80/images/dTTqLGZdJMYPezOl5TGOjy99D6jiv4hVcLazZHEnh4yY_qexQx3UJXgJuCFJ0GftRxoHRzbomhUfXH5t8ttdk1It-EeMcKUE7DE00o4azm5aKqtL-fSqO8_wbkVJYyV1.jpg" group-title="Кинозалы DITV",DITV КОМЕДИИ 90-х
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/884.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КУЛИНАРИЯ" tvg-logo="http://ditv.ydns.eu:80/images/tLA6zcfRaVCPfiLDZr2NaDbtMwSngaHEMTuqZ03noVfj98JzgXtv_dGoMKA6tbFSM6yqOJsNrUupNXZk2ZBAMUycO7EVT-ioiTPrv7HHk2k.png" group-title="Кинозалы DITV",DITV КУЛИНАРИЯ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/885.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Удивительные странствия Геракла" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JCQhCKKpROBci-jyT5DYE61Mdni8nTxd_9lhYHP3Rc_OPD9yTehp0pDiY-fTj88lfw.jpg" group-title="Кинозалы DITV",DITV Удивительные странствия Геракла
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/886.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV БОЕВИКИ" tvg-logo="http://ditv.ydns.eu:80/images/YjU-U02i9xLCLXefKTHYIf-uYquNXV7v5ZGeu8G59CaKLyXe2O6YVOWbMxilz9dW8KPjPBwAy9cMJ_fB33ICLy5pyqrn0jTwUBp5ReAiXjc.png" group-title="Кинозалы DITV",DITV БОЕВИКИ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/887.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV УЖАСЫ" tvg-logo="https://avatars.mds.yandex.net/get-ott/374297/2a00000172276037b2b96ec04a467c9814a7/960x540" group-title="Кинозалы DITV",DITV УЖАСЫ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/888.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ФАНТАСТИКА" tvg-logo="https://sun9-76.userapi.com/impg/uHkG1GsPkRM2lZOtxCG2iPf18fZHFtX49pLQjA/ul2r4-iO0Ns.jpg?size=807x220&quality=95&sign=92f3fab94130127915fb2786d3efa170&c_uniq_tag=c_sRqZt21PCqxiKakvFnHrWytUwbaW9btCaWnpinVXY&type=album" group-title="Кинозалы DITV",DITV ФАНТАСТИКА
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/889.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV КОМЕДИИ" tvg-logo="http://ditv.ydns.eu:80/images/_PFPECAfduyBrBSxQu9ZP2fCvDJlQU6M3gxzGoMQT9reyM6yVZRpZlFMMzUtO69dhHHSI2DztxGFduJvKj-QNg.jpg" group-title="Кинозалы DITV",DITV КОМЕДИИ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/890.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Русский рок" tvg-logo="https://avatars.dzeninfra.ru/get-zen_doc/1654945/pub_637ad27a63c66c6acb3c5819_637adc3a28334f6b93aa191e/scale_1200" group-title="Кинозалы DITV",DITV Русский рок
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/891.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Детективы" tvg-logo="http://ditv.ydns.eu:80/images/PaDKyzHX26IK-PikUpB3TsnUKEgBFO0iNV6A0C2USc6eY31PQBAbW7FXCdsFSUiQsKFuijeVVu-WaHlZ61AQrFNXbhdJNSUvnRgZN9OSjdw.jpg" group-title="Кинозалы DITV",DITV Детективы
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/892.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Мультфильмы для малышей" tvg-logo="https://avatars.mds.yandex.net/i?id=ac4a4c320269bcbd6d42d05cc809f1f2_l-5849607-images-thumbs&n=13" group-title="Кинозалы DITV",DITV Мультфильмы для малышей
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/893.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ФИЛЬМЫ С Джеки Чаном" tvg-logo="http://ditv.ydns.eu:80/images/VjcWddadysoiVJIoAuuzd8Xl-PsG6JD_rEJoLqoPbr1YIuEhgShZF2u3ccCQJR4UF4QB2yb86xG61eRGJ_cDly822GJjI9hPWxgiR7t9XlU.jpg" group-title="Кинозалы DITV",DITV ФИЛЬМЫ С Джеки Чаном
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/894.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Альянс Вольных Переводчиков" tvg-logo="http://ditv.ydns.eu:80/images/6142j36L0fA2sEcmI1uXe0oAIRr6DtpBK4prsfNWIm9M3j2jemKhPw6IG4Ck0wkYdfKQ0ziuwUTgzKsCR2neiQ.jpg" group-title="Кинозалы DITV",DITV Альянс Вольных Переводчиков
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/895.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV  Папины Дочки" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JOfVvmX1MPsdSuO7u_4O9ttmriN7qO0bQN9kFmDIebAFv84TM7nfc2BZ1OjQ7THrPQ.jpg" group-title="Кинозалы DITV",DITV  Папины Дочки
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/896.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Осторожно модерн!" tvg-logo="http://ditv.ydns.eu:80/images/Z4fIDumhBvNbtb6YgQ9B2nJDH33TM-23X6ecfRNgiT73czLvfiPTGPI-O2V6ZpIO.jpg" group-title="Кинозалы DITV",DITV Осторожно модерн!
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/897.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Шоу Бенни Хилла" tvg-logo="https://avatars.mds.yandex.net/i?id=c8bc551328cfbcca78549172d60fb58e70feefa7-4628606-images-thumbs&n=13" group-title="Кинозалы DITV",DITV Шоу Бенни Хилла
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/898.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV НТВ Сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=f3face8f8cbd4033c46f8ff95f8c3371c2e0f1b6-4450519-images-thumbs&n=13" group-title="Кинозалы DITV",DITV НТВ Сериалы
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/899.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Детективные сериалы" tvg-logo="https://avatars.mds.yandex.net/i?id=fae315ab40406b322fc4be445f23a425664d72bd-9727996-images-thumbs&n=13" group-title="Кинозалы DITV",DITV Детективные сериалы
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/900.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV  Ивановы-Ивановы" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JGgngf87QTzYu6vzMMZO1baVEEdCjTTJEWyS_hGCWtjaiLbqaOcIQTKIyaL0rmuRXw.jpg" group-title="Кинозалы DITV",DITV  Ивановы-Ивановы
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/901.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV Крик  Против всех" tvg-logo="http://ditv.ydns.eu:80/images/6-k5WgGhUbGFLbGKDJD7Vg1apBJfks0UkVE4FyMosOgP_XDRAjPpa55GrOEG4dO7alQWztXzb5EO9xHizc_oTQ.jpg" group-title="Кинозалы DITV",DITV Крик  Против всех
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/3694.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ИНДИАНА ДЖОНС" tvg-logo="http://ditv.ydns.eu:80/images/bCFZclLa4rgR90SRqAl-cMQ7NZDdinaOxRnySkJZDoLE8NQxLmzLB2K9X17c1fvWBYY3Q8f82uEeqOgBNQZwo_yxk5Qpy9Zl5PCumP39S2CgaxBwUYhWR07NMi9OkakuyaEKHbAZCqy_r2GpHWU9VxKaPGCxDeywTUH41m8GR53aYs5ZBF58U2ZRqbeHvKgvtmDPLhCmiI0I5pE3XNezZQ.jpg" group-title="Кинозалы DITV",DITV ИНДИАНА ДЖОНС
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/6888.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ФИЛЬМЫ ПРО АКУЛ" tvg-logo="http://ditv.ydns.eu:80/images/_PFPECAfduyBrBSxQu9ZP2CAK0wlgC8LUYTiObAPRWfQMH2drb5utKlItrC0I80VP9gKwLt_sf8nwb9aWqC_Tw.jpg" group-title="Кинозалы DITV",DITV ФИЛЬМЫ ПРО АКУЛ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/6455.ts
+#EXTINF:-1 tvg-id="" tvg-name="DITV ФИЛЬМЫ ПРО ВАМПИРОВ" tvg-logo="https://avatars.mds.yandex.net/i?id=1f680fff72a97c0f7468f2a97d610b82-3925790-images-thumbs&n=13" group-title="Кинозалы DITV",DITV ФИЛЬМЫ ПРО ВАМПИРОВ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/6573.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL Гости из прошлого" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JDMqsvchVgJoYFYazQmxRCkRUNUuNksWXsmjYdY584vP7aCNvKuHXzI8A59OqYaKtw.jpg" group-title="Кинозалы DITV",DITV Гости из прошлого
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/3697.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL Домашний арест" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JKK1l0UdKjILOCIGtQVqJj2W4Fopxb1TO_xyEIulvbyB8Ra0TwCuEJr2UrmoBlbHTw.jpg" group-title="Кинозалы DITV",DITV Домашний арест
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/3700.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL  Просто Михалыч" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JM6qWhCiq4K6F4GulYnQns9QvW2E165EpWs_NtxtBWbb7CXdlvR4j_x5LJw3h8pOmg.jpg" group-title="Кинозалы DITV",DITV  Просто Михалыч
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/4777.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL БИМ" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JPSz78e5tBV-wuGuh9rN8i920hG6lkWnNTjZhzoY4YZIhfOXcwW2GYXp_kKi8MvThA.jpg" group-title="Кинозалы DITV",DITV БИМ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/4778.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL Гарри Поттер" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JE9za5GZxtVKOjs1335odUXsEf1SybwnSmZyYkb-lhvp_5wXofPWLkwR-K-JvD44lw.jpg" group-title="Кинозалы DITV",DITV Гарри Поттер
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/5130.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL Телохранители" tvg-logo="https://avatars.mds.yandex.net/get-kinopoisk-image/4486454/f9bafd4d-27b4-47f4-a731-abbcb66f5617/3840x" group-title="Кинозалы DITV",DITV Телохранители
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/5131.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIZAL СОЮЗМУЛЬТФИЛЬМ" tvg-logo="http://ditv.ydns.eu:80/images/QCqX5p5x3Y181Q8jwb82JOz5EDm-dtJ_qmAHQ1J4wpceRTAt8uqPYgfufwNTiNGDIPbgP_Eweb-8I0_5VQftT2Z3JDiZbun5MGMJJ8NI1q4.png" group-title="Кинозалы DITV",DITV СОЮЗМУЛЬТФИЛЬМ
+http://ditv.ydns.eu:80/DIZALDITV/MkN8TgBmq8/5470.ts
 
 
 
