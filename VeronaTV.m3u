@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"
 
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite.xml.gz; https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/epg_lite_gabbarit.xml.gz"
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/logo2.jpg" group-title="ИНФО", HTTPS://T.ME/SHARED_NEW
-https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/LOGO_FHD.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/QR.png" group-title="ИНФО", ПОДДЕРЖКА ПРОЕКТА
-https://raw.githubusercontent.com/IPTVSHARED/iptv/refs/heads/main/donat.mp4
-
-#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 25.06.2025г 10:30
+#EXTINF:-1 tvg-id="no_epg" tvg-logo="https://static10.tgstat.ru/channels/_0/c5/c5d4392f3362c41844450fddcf07931f.jpg" group-title="ИНФО", ОБНОВЛЕНИЕ: 25.06.2025г 14:10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
 
@@ -1606,11 +1598,11 @@ http://kino-1.catcast.tv/content/38617/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/large/public/tv-logo/tv-1filmax.jpg?itok=cAN6QlYt" tvg-id="no_epg_cinema" group-title="Кинозалы", 1FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204708.m3u8
+http://hls.goodgame.ru/hls/204708.m3u8
 
 #EXTINF:-1 tvg-logo="https://tv2free.ru/sites/default/files/styles/medium/public/tv-logo/tv-2filmax_0.jpg?itok=i-oGmqFs" tvg-id="no_epg_cinema" group-title="Кинозалы", 2FILMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
-http://195.9.195.3:8080/hls/204717.m3u8
+http://hls.goodgame.ru/hls/204717.m3u8
 
 #EXTINF:-1 tvg-logo="http://i120.fastpic.org/big/2022/0720/74/52a7882bf655f06a149bf9b06147dd74.png" tvg-id="Видеокасета VHS" group-title="Кинозалы", Видеокасета VHS
 https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
@@ -1625,7 +1617,7 @@ http://212.42.104.243:80/ch099/mpegts
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v5a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.tildacdn.com/stor6561-3739-4839-b866-653865323964/89862824.png" tvg-id="no_epg_cinema" group-title="Кинозалы", Dimpon HD
-http://195.9.195.3:8080/hls/210470.m3u8
+http://hls.goodgame.ru/hls/210470.m3u8
 
 #EXTINF:-1 tvg-logo="https://sun9-46.userapi.com/impg/ZnqB3tVZukqYoWDbS7I_AlrKaZ6ADiysIGIW_Q/AHJVACxoM4o.jpg?size=604x380&quality=95&sign=042a35c73b3335b3e9dc79fc1ad6ea38&type=album" tvg-id="no_epg_cinema" group-title="Кинозалы", Сити Эдем - КиноМистика
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
@@ -3110,6 +3102,36 @@ https://d3u2u3qzvtw7w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H1Aap4E.png" tvg-id="no_epg_music" group-title="Музыкальные", VEVO Retro Rock
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/3b/9a/03/3b9a0389e68b113b2778a796b588a6e5.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '70s
+https://dlpg8tl1ugdoo.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-u38d4zi2bpmec/Vevo_70s.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991132/600x337.webp?type=channelTile" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '80s
+https://d17i214xp3vw8a.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5vjb8mjxp73gd/Vevo_80s.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo '90s
+https://d321u5fu9qef79.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yinfe6h5dj8i1/Vevo_90s.m3u8
+
+#EXTINF:-1 tvg-logo="https://oxygeneventworks.com/wp-content/uploads/2016/03/logo_vevo_blk-600x400.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo 2010s
+https://d1td33xo32wcw8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eriheq1pngmtd/Vevo_2010s.m3u8
+
+#EXTINF:-1 tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/home-img-02.svg" tvg-id="no_epg_music" group-title="Музыкальные", Vevo 2K
+https://d4dkvp1ga8v8z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pkvocv263tp96/Vevo_2K.m3u8
+
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/get-yapic/51381/lxysahjDZneFg1y0gtmLC8pOSI-1/orig" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Features
+https://d1ze674i4apj8g.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-dnsrl2co4rjn8/Vevo_Features.m3u8
+
+#EXTINF:-1 tvg-logo="http://blog.lcotiv.com/i/20197093330.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Latino
+https://d1ylrwzh4ekdq4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2v53vq46l9e0c/Vevo_Latino.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dZHktKR_d.webp?maxwidth=760&fidelity=grand" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Pop
+https://d33yiufuiyic30.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-f94huxetzks7d/Vevo_Pop.m3u8
+
+#EXTINF:-1 tvg-logo="https://admin.worldlivetv.stream/upload/files/thumbnail/vuth_1667586418_86792_64657.png" tvg-id="no_epg_music" group-title="Музыкальные", Vevo Hip Hop
+https://d14y8035xivxd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-46idq7bdmcbwf/Vevo_Hip_Hop.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5da0d83f66c9700009b96d0e/featuredImage.jpg?" tvg-id="no_epg_music" group-title="Музыкальные", Vevo R&B
+https://d3cu9t0v0j3v7r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-irsyy4yjtdieo/Vevo_R_B.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hedex.tv/uploads/images/clip_5757_1705741236_social.jpg" tvg-id="no_epg_music" group-title="Музыкальные", Oxygen Music 
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
